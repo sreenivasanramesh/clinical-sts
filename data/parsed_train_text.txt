@@ -1,0 +1,1654 @@
+ wheelchair gait patient ambulatory gait 3
+oxycodone roxicodone 5 0 5 1 4 pantoprazole protonix 40 enteric 1 1
+ 0 outpatient 0
+ regimen outpatient regimen outpatient lithium 3
+ caregiver 4
+nortriptyline pamelor 50 capsule 1 capsule bedtime tylenol 500 2 bedtime 1
+ 25 50 15 50 025 modifier 4
+ cough tightness shortness stridor hent congestion rhinorrhea sinus sore 2 5
+ondansetron zofran 4 1 minocycline minocin 50 capsule 1 capsule 1
+ caregiver giver 4 9
+ verbalized verbalized 3
+ unsedated marrow marrow aspiration biopsy directives 3 25
+bupropion wellbutrin 300 24 1 flintstones chewable 1 2
+ multisystem 5
+ inability awake dusky rash blotches purpural rash stiff puffiness stiff rash blotches purpural rash inability swallow struggling breathe inactive resting 3 25
+ respirations conversing distress cough respirations conversing distress bilateral lobes trachea midline cough 3
+ oncology 1 5
+ developmentally developmentally 4 05
+ instructed pertaining 2 75
+ 4
+ interviewed 1 5
+ verbalized caregiver verbalized 3 4
+ verbalized 3 4
+ utilized wic utilized wic mfip 3 5
+ discharged ambulating unaccompanied verbalized discharged ambulating 3 25
+tylenol 2 furosemide lasix 40 1 1
+ inability awake rash blotches purpural rash inability awake inability swallow bending rash blotches purpural rash tightness jaw 2 5
+lisinopril hctz 10 12 5 1 prednisone 5 2 1
+ caregiver verbalize splint 1 25
+ wheelchair patient distress stretcher unsteady gait patient 2 5
+celexa 40 1 miralax 17 gram 1 0 5
+ extremity edema bilaterally 2 radial extremities bilaterally 1
+cephalexin keflex 500 capsule 1 capsule 600 2 1
+ nearing bariatric sling 0
+ typed 0
+ learns learns 5
+ 0
+ 72 recurred 24 103 39 4 recurred 24 3 5
+ attentive trendelenburg tilted 0
+ inability awake inability awake struggling breathe inactive resting floppiness fainting uncontrolled 2 75
+ cosigner cosigner rmw 4 25
+ recurred 24 103 39 4 recurred 24 104 40 recurrent unexplained fevers 3 25
+duloxetine cymbalta 30 capsule enteric 1 capsule pravachol 40 1 2 5
+azithromycin zithromax pak 250 prescriber 1 prescriber 1
+ procedural pause procedural pause 3 7
+ sedated marrow aspiration biopsy directives 3
+ abstinent altering abstinent altering indefinitely 4 7
+ 4 25
+flagyl 500 1 senna 8 6 50 1 1
+ biofeedback biofeedback 1 5
+acetaminophen tylenol 500 2 melatonin 3 1 bedtime 2 5
+ 3
+strattera 40 capsule 1 capsule arimidex 1 1 2 5
+ 4 9
+ 50 hardening 75 4 2
+ ambulatory gait patient uncomfortable stretcher unsteady gait patient 2 9
+ 25 50 30 50 4
+ denies smokes 10 denies 3 25
+lasix 20 2 duloxetine cymbalta 60 capsule enteric 1 capsule 2 5
+ neurological 4 5
+neuro proximal distal extremities grossly intact distal sensation intact 2 5
+ disp 100 bedtime refill 3 expire 1 disp 20 q4 6h prn refill expire 1 9
+ 45 45 4
+ 3
+ aprn 4
+ prepped draped sterile 0
+ verbalized verbalized 3 25
+ purulent perceptual disturbance 0 5
+ inability awake stiff rash blotches purpural rash tightness jaw inability awake struggling breathe inactive resting vomit vomiting stools uncontrollable rectal rash blotches purpuric rash 3
+ 4 9
+ sinus 12 antibiotics sinus 4 irritation headache antibiotics sinus 4 antibiotics minocycline doxycycline sinus 12 3
+ dvt shortness 3 4
+ scar lesion recurrence 4
+ sulfa trimethoprim sulfa ciprofloxin cipro xab nitrofurantoin macrobid xab sulfa trimethoprim sulfa ciprofloxacin cipro nitrofurantoin macrobid 4 9
+ prepped draped sterile 0
+ verbalized verbalized 3 25
+ instructed 3
+ gallbladder hysterectomy uterus womb ovaries tubal ligation sterilization gallbladder removal ovaries tubal ligation sterilization 3 75
+ ambulatory gait patient uncomfortable wheelchair gait patient distress 3 9
+recheck recheck swallowing worsening recheck recheck recheck swallowing recheck worsening 5
+ caregiver 1 10 0 0 10 3 5
+ stretcher unsteady gait patient stretcher unsteady gait patient 4
+ 3 6
+ ambulating cane cane limb 0
+ 3 45
+ voiced 1 5
+ patient anxious 3 1
+ situ invasive carcinomas 0 5
+ tendency weakness neurological tendency weakness 1 5
+ motivational motivational 2 75
+ handouts videotape assertiveness prc handouts 3 45
+ lesion excised subcutaneous fascia larynx supraglottis folds subglottis 0
+ inability awake noisy wheezy raspy doesn coughing bending rash blotches purpuric rash muffled inability inability swallow inability awake headache stiff shortness wheezing tightness onset swallowing swelling rash blotches purpural rash 3 25
+ 3 75
+ 4 5
+ ambulatory gait patient uncomfortable wheelchair gait patient 3
+ inability awake shortness wheezing tightness inability awake shortness wheezing tightness itchy rash hives 3
+ 2
+ inability awake struggling breathe inactive resting inability awake inability struggling breathe inactive resting swelling sits 3
+ verbalized sclerotherapy 3 75
+ struggling breathe inactive resting inability awake bowel bladder extremities weakness bilateral numbness groin saddle abdominal inability awake struggling breathe inactive resting discomfort vomiting uncontrollable rectal 2 5
+ discharged ambulating verbalized discharged ambulating 3 45
+lorazepam ativan 0 5 1 bedtime levetiracetam keppra 500 1 2 5
+ 3 9
+ supportive 0 5
+ swelling redness swelling warmth pus swelling redness swelling warmth pus sided swelling 4 8
+ caregiver 3 45
+ timed 10 timed 33 4
+ cheeks forehead sinuses jaw discolored nasal postnasal jaw bending discolored nasal postnasal jaw bending 3
+ discharged ambulating unaccompanied verbalized discharged ambulating unaccompanied 3
+ 100 4 38 headache itchy hoarseness 38 headache itchy hoarseness 3 5
+gastrointestinal abdominal diarrhea nausea vomiting gastrointestinal abdominal cramping diarrhea nausea vomiting 5
+cyanocobalamin 1 000 mcg 1 estradiol estrace 0 5 1 1
+ 4
+ immunization intranasal influenza vaccination immunization intranasal influenza vaccination papillomavirus vaccination 3 25
+ caller 3 6
+zofran odt 4 dissolve 1 6 cheratussin 10 100 5 10 4 1
+ cystoscopy contraindications 2 25
+ verbalized verbalized 3 25
+ neglect neglect 3 9
+ acupuncture voiced 3 5
+ tolerated orthopedic anesthesia anesthesia 2 5
+zantac 150 1 melatonin 3 2 bedtime 1
+gastrointestinal abdominal cramping diarrhea abdominal diarrhea nausea vomiting 5
+ nausea vomiting shortness profuse sweating pain spreads jaw lightheadedness palpitations nausea vomiting shortness profuse sweating 3
+ deformity swelling grating crackling sensation bruising dizzy wheezing vomiting 0
+ interpreter caretaker 3 9
+ discharged ambulating verbalized discharged ambulating verbalized 4
+ somali interpreter 4
+ 4 5
+ developmentally developmentally 3 75
+ denies shortness sore shortness irritation 3
+ibuprofen motrin 400 1 4 metoprolol tartrate lopressor 50 1 3
+ 1 1 fluids 1 1st 1 liter 1 bolus 1000 1 antecubital 1 fluids 1 1st 1 liter 1 bolus 1000 tubing 4 5
+ respirations conversing distress cyanosis respirations conversing distress retractions cyanosis cough 3 8
+ identifiers fingerstick inr ambulatory gait patient 0
+tylenol 500 2 8 metoprolol tartrate lopressor 50 2 1
+ interviewed 0
+ globally abdomen adl iadl 0 5
+ tolerated dismissed resected cauterized vas tucked 0
+ toileting bathing grooming toileting 3 25
+ 3
+ headaches 1 25
+ denies flank chills vaginal vaginal hematuria pertinent negatives denies flank chills vaginal vaginal hematuria 3 7
+ caregiver 3 8
+ wheelchair unsteady gait patient distress ambulatory 2 5
+ 2 5
+ 38 aches abdominal pain urine smelling urine 38 urine urine urinate urinating smelling urine vomiting sensation 3
+ patient ambulatory gait patient anxious restless uncomfortable 3 25
+ 4 5
+ anticoagulation 4
+ 3
+ pause scar recurrence persisting redness pigmentation numbness pause 3
+ inability awake discomfort excruciating ripping stabbing dissecting aortic aneurysm toes struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash sits stiff rash blotches purpural rash 2 25
+ understands 3 45
+ tolerated tolerated 4 5
+ 50 500 300 200 capsule 2 capsules metformin glucophage xr 500 24 3 1
+patanol 0 1 1 2 ophthalmic hydrocortisone 2 5 ointment 1 topically 2 5
+ collateral 5
+ 7 shaking chills ribs urine abdominal 100 4 38 nausea vomiting onset vaginal odor itching intercourse shaking chills ribs urine abdominal 100 4 38 nausea vomiting onset vaginal odor itching intercourse 3 85
+ inability awake stiff onset clap blurred sided weakness numbness tingling slurred rash blotches purpural rash discomfort shortness inability awake refusing rash blotches purpuric rash headache floppiness fainting seizure 2 75
+ sterile postanesthesia pacu anesthesia anesthesia 1
+ respirations conversing respirations conversing distress retractions cyanosis 3 25
+ inconsolable crying vomiting diarrhea jaundice inconsolable vomiting diarrhea jaundice 4 9
+ rationale impairment caregiver 1
+ 0 10 0 0 10 0 10 2 75
+ musculoskeletal 0
+ cholecalciferol d3 d3 1 000 1 cholecalciferol d3 d3 50 000 capsule 1 capsule 3
+ redness tearing glaucoma cataracts blurred specks redness tearing glaucoma cataracts specks 4
+ splint instructed lumen prostatic vas deferens electrocautery 2 cauterized internally 0
+ immunization intranasal influenza vaccination immunization inactivated influenza vaccination 3 5
+ 4 5
+ numbness effected limb intact sensation deltoid bilaterally 3
+ gynecology gynecology preventive 3 4 9
+ 4 75
+ acupuncture consents acupuncture 5
+ wheelchair unsteady gait patient uncomfortable gait patient 2 5
+ bathing toileting bathing grooming toileting 4 25
+ procedural pause procedural pause implants 4 3
+ ä tamsulosin flomax 0 4 24 capsule 1 capsule 0 4 ä diltiazem cardizem cartia xt 120 24 capsule 1 capsule 120 1
+ verbalized consented verbalized 4
+ caregiver 4
+ directives 3 25
+ directives 3 25
+ inability awake lethargy floppiness refusing seizure pitched whimper moaning consolable rash blotches purpural rash bulging tense fontanel crying inability awake wheezing tightness swelling swelling eyelids swallowing rash blotches purpuric rash 2 75
+ inability awake struggling breathe inactive resting discomfort palpitations sweating weakness numbness tingling inability inability awake swelling struggling breathe inactive resting abrupt onset onset cough choking gagging inhaling airway tightness jaw palpitations 3
+ penetrating gunshot stabbing puncture organs puncture organs gunshot 3 95
+detrol 4 capsule 24 1 capsule oxybutynin ditropan 10 24 1 2 5
+ strep strep pharyngitis contagiousness 24 recheck sooner strep symptomatic strep pharyngitis contagiousness 24 recheck sooner 4 75
+minocycline minocin 100 capsule 1 capsule oxycodone roxicodone 5 1 2 4 3
+ 38 wheezing tightness runny hoarseness sweats unintentional appetite runny fatigue exhaustion 2 75
+ tympanic pinna erythema edema 3 5
+prednisone 1 3 qsymia 3 75 23 capsule multiphasic 24 1 capsule 1
+ 3 7
+ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation albuterol 90 mcg actuation hfa aerosol 2 4 puffs inhalation prescriber 3 25
+ diarrhea pus mucus stools diarrhea greasy oily stools diarrhea unformed stools diarrhea greasy oily stools 3
+ discharged ambulating verbalized discharged ambulating unaccompanied 3 45
+ recurring urination urgency urinating recurring urination urgency urinating 3 4
+nitroglycerin 0 4 sublingual 1 sublingual prescriber zocor 10 1 2 5
+ 500 capsule 1 capsule lisinopril prinivil zestril 10 1 5
+ allergies 0
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability awake struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash 2 5
+ 3 75
+ inability awake lethargy floppiness refusing seizure pitched whimper moaning consolable rash blotches purpuric rash bulging tense fontanel crying inability awake lethargy floppiness seizure pitched whimper moaning consolable rash blotches purpuric rash bulging tense fontanel crying rectal 100 4 3
+ verbalized agreeable 1 5
+ ambulatory patient ambulatory gait 3 7
+ verbalized 4
+ wheelchair unsteady gait patient distress ambulatory smiling playful playful consolable appropriately 1 75
+ 2
+ worsening 3 4
+ directives interventional 4 25
+ diagnoses heightened 4 5
+ caregiver verbalized 3 4
+ verbalized verbalized 4
+prednisone 10 4 omeprazole prilosec 20 capsule enteric 1 capsule 1 5
+ cantharidin 3
+ verbalized 3 15
+ directives 4
+ directives directives 3 5
+ 4
+spironolacton hctz aldactazide 25 25 1 pseudoephedrine sudafed 30 1 4 2 5
+ prepped draped sterile lithotomy 0
+ ambulatory gait patient wheelchair unsteady gait inability ambulate patient 3 15
+ patency 2ml 0 9 preservative nacl patency 10 0 9 preservative nacl 3 7
+hydroxychloroquine plaquenil 200 1 lisinopril prinivil zestril 5 1 1
+hent congestion postnasal drip rhinorrhea sore gastrointestinal constipation diarrhea heartburn nausea vomiting 1 5
+ nausea vomiting shortness profuse sweating pain spreads jaw lightheadedness palpitations nausea vomiting profuse sweating lightheadedness palpitations 3
+ caregiver verbalized caregiver verbalized 3 9
+ neurobiology nicotine rationale cessation rationale 0 5
+ laceration 4 9
+ 5 1 ibuprofen advil 200 1 6 1
+ 55 50 3 5
+ discharged ambulating discharged ambulating transported unaccompanied 3 35
+ wheelchair patient unsteady gait inability ambulate patient 3 85
+ 4 25
+ understands biopsy 3
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability swallow inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash sits muffled inability 4 5
+ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation azmacort triamcinolone acetonide 75 mcg aerosol 2 puffs inhalation 2 5
+ recurred 24 104 40 recurred 24 103 39 4 4 2
+ 3
+coenzyme q10 10 100 capsule 1 capsule torsemide demadex 20 3 1
+ 4 6
+wellbutrin 150 24 2 diclofenac voltaren 75 enteric 1 1 5
+ 3 25
+ motivational motivational 5
+ibuprofen advil 200 2 4 ceftriaxone rocephin 2 gram 2 intravenous 24 1
+naproxen 550 1 d3 400 1 2 5
+ pulses s1 s2 4
+prochlorperazine compazine 5 1 aleve 220 2 2 5
+ acupuncture wished 2 75
+ citrate d3 citracal 315 250 1 senna docusate senokot 8 6 50 2 2 5
+triamcinolone acetonide kenalog 0 1 1 topically prescriber lidocaine xylocaine jelly 2 1 mucous prescriber 1 75
+ directives 3 5
+ gastrointestinal historian denies abdominal diarrhea nausea vomiting historian denies otalgia sinus sore 0 5
+ verbalized 3 5
+ ultrasound transducer rectum 0
+ verbalized 2 75
+ directives directives 3 5
+ 4 2
+ consented 0 5
+ struggling breathe inactive resting faint inability awake slurred faint fainted inability awake 3
+ swelling limp discomfort improves cramping thigh calf stairs cramps swelling varicose veins veins ulcers sores toes cracking peeling itching toes soles lump swollen gland swelling limp discomfort improves cramping thigh calf stairs cramps varicose veins veins ulcers sores toes cracking peeling itching toes soles lump 3 25
+ tolerated 1
+ 4
+ historian denies cough shortness sputum wheezing historian denies chills fatigue weakness 1 25
+ 1
+genitourinary urinating urination shortness wheezing 0 5
+ immunization immunizations immunization 4
+ verbally verbally cvi 3 9
+ impairment severity impairment exemplified prc impairment severity impairment exemplified 3 5
+ 4 4
+ caregiver 4 2
+ shortness tightness jaw inability awake wheezing tightness runny aches fatigue exhaustion 2 5
+ ambulatory gait patient gait 3 95
+ discharged ambulating patient discharged verbalized 3 25
+ spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation 5
+melatonin 3 1 2 bedtime ferrous sulfate 324 65 enteric 1 1
+ verbalized verbalize prc 0 5
+ caregiver caregiver 3 75
+ openly empathy bilateral knees prepped draped sterile 0
+ level 4 initiate 2
+ relieve orthotic aggravate lifting gripping 3
+ interpreter caretaker 3 95
+ understands warts growths outpatient 0
+ 9 18 administer inactivated influenza fluzone 0 5 intramuscular administer inactivated influenza fluzone 0 25 intramuscularly 2 5
+ eyelid swollen swollen irritation eyelid swollen swollen irritation 4 7
+ inability awake shortness wheezing tightness swelling onset swallowing rash blotches purpural rash inability awake stiff blurred weakness numbness tingling slurred rash blotches purpural rash discomfort shortness 3
+nitrofurantoin macrobid 100 capsule 1 capsule 12 50 1 6 1
+ verbalized verbalized 3
+ inability awake discomfort excruciating ripping stabbing dissecting aortic aneurysm toes struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake struggling breathe inactive resting discomfort currentand excruciating ripping stabbing dissecting aortic aneurysm toes vomit vomiting stools uncontrollable rectal rash blotches purpural rash 4
+lisinopril prinivil zestril 10 1 naproxen 550 1 1
+ unsteady gait patient mucous membranes 3
+ discharged ambulating verbalized discharged verbalized 3 5
+melatonin 3 bedtime vitron 65 125 1 prescriber 3
+ 38 wheezing tightness hoarseness sweats unintentional appetite runny hoarseness sweats unintentional appetite 2 75
+ crib terrors tantrum crib terrors tantrum handout 3 8
+ ambulatory gait patient anxious ambulatory gait patient 4
+ nerves vertebrae spinal situ invasive carcinomas 0 5
+ dysphagia abdominal jaundice nausea vomiting diarrhea constipation melena hematochezia historian abdominal historian denies constipation diarrhea hematemesis hematochezia melena historian nausea 3 4
+ 0
+ instructed 72 contagious 24 instructed contagious 24 3 4
+ verbalized verbalizations 3 5
+ prevented caregiver 1 1 5
+ housekeeping bathing cannot housekeeping 2 5
+ communicated 1 25
+ verbalized 3 5
+ stretcher unsteady gait patient unsteady gait 3 25
+ inability inability awake inability swallow onset coughing choking gagging inhaling airway tightness jaw frothy sputum noisy wheezy raspy doesn coughing inability inability awake swelling swelling eyelids struggling breathe inactive resting abrupt onset onset coughing choking gagging inhaling airway skipped heartbeats noisy wheezy raspy doesn coughing 3
+ directives directives 4
+ discharged ambulating verbalized discharged wheelchair 3
+ urine daytime wetting bedwetting urine foamy urine vaginal genital urine daytime wetting bedwetting urine foamy urine 3 25
+ gastrointestinal historian denies abdominal nausea vomiting historian denies otalgia sore stridor 1
+ caregiver instructed instructed pertaining 2
+ discharged ambulating patient discharged 3 9
+ verbalize decreasing 1 verbalize decreasing behaviors 1 4 4
+ 3 neurological 4 5
+ inability awake shortness wheezing tightness itchy rash hives inability awake stiff rash blotches purpural rash headache sits 2 95
+ d3 2 000 capsule 1 capsule ezetimibe zetia 10 1 1
+ ultrasound lithotomy pertinent rcu bedside 0
+ caregiver 3 4
+ fetuses thickening nuchal translucency fetus fetus fetus trisomy 18 10th 13th 2 5
+ shortness tightness unrelated coughing jaw jaw extremity numbness tingling dyspnea diaphoresis 1 65
+ forearm 20 catheter 20 catheter saline 3 45
+ verbalized caregiver verbalized 3
+ vascular patency inpatients outpatients 18 inpatients outpatients 18 2 5
+ 0
+ allergies allergies 4 5
+ caregiver caller caregiver 4 5
+ awake verbalizes 3
+aspirin ecotrin 325 1 exemestane aromasin 25 1 1
+ giver 4
+ketoprofen 75 capsule 1 capsule cephalexin keflex 500 capsule 1 capsule 1
+cholecalciferol d3 d3 1 000 1 isosorbide mononitrate imdur 120 24 1 2 5
+ motivational motivational 4 9
+ caller verbalizes verbalizes verbalize altering problematic impairment 2 5
+ 9 administer inactivated influenza fluvirin fluzone 0 5 intramuscular immunization inactivated influenza vaccination 3 25
+ murmurs gallops heaves lifts thrills murmur 4 5
+ caregiver interviewed odegarden 0 5
+ directives 3 5
+ neurologic fainting blackouts seizures weakness paralysis tingling numbness tremors involuntary fainting blackouts seizures paralysis tingling numbness tremors involuntary 4 4
+ mellitus 2 5
+ fatigue 3
+ gbs gbs 4 2
+ swelling extremity swelling sensation slipping cramps inability straighten lump swelling extremity swelling sensation slipping cramps inability straighten lump 4 75
+ vasectomy distortions 0
+ fluoride luride 1 fluoride 2 2 chewable 1 levetiracetam keppra 500 1 1
+ 100 4 38 itchy hoarseness 38 itchy hoarseness 2 9
+ 3 25
+ gbs undergone brca1 2 bart 1
+ inability awake inability swallow bending rash blotches purpural rash tightness jaw inability awake struggling breathe inactive resting discomfort palpitations sweating weakness numbness tingling 4
+ counseled reinforcement humidifier 0
+ dismissal tolerating ambulating afebrile bowel bladder dismissal tolerating ambulating 2 5
+ abdominal diarrhea nausea vomiting gastrointestinal abdominal stool constipation diarrhea hematemesis nausea vomiting 4 5
+cyanocobalamin 500 mcg 1 carbonate caltrate 600 600 1 500 1 1
+ itinerary insect precautions insect repellent permethrin itinerary insect precautions insect repellent permethrin 5
+ splint splint 5
+ 3 45
+ verbalized verbalized 3 75
+ appreciative 4 5
+ inability awake stiff rash blotches purpural rash tightness jaw inability awake dusky stiff rash blotches muffled inability tightness jaw struggling breathe inactive resting 3 4
+lipitor 80 1 acetaminophen tylenol 500 1 2 6 3
+ procedural pause implants pause 3 25
+ aprn 4
+ verbalize 1 50 3 0 5
+metoprolol tartrate lopressor 25 1 sulfamethoxazole trimethoprim bactrim 800 160 1 3
+verbally 2 5
+albuterol 90 mcg hfa aerosol 1 2 puffs inhalation prescriber albuterol proventil ventolin 90 mcg hfa aerosol 2 6 puffs inhalation 4 3
+melatonin 3 2 bedtime lamotrigine lamictal 200 1 1 5
+ caregiver 3 9
+ dystrophic irritation irritation 4 5
+ ambulatory gait patient anxious ambulatory smiling playful playful 3 75
+ caretaker 4 25
+ directives 3 5
+ disp 150 5 3 10 refill disp 15 5 refill 1 5
+ patient uncomfortable uncomfortable 4 25
+ inability awake rash blotches purpuric rash inability awake sits inability swallow bending rash blotches purpural rash 3
+ redness swelling endocrine intolerance tremor 0 5
+polyethylene glycol 3350 miralax 17 gram 17 prednisone 1 2 1 5
+ allergies 4 5
+ adhd 3
+ spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation prescriber 4 4
+advil 200 1 4 pravastatin pravachol 20 1 1
+ 0 5
+ darco wedge 0
+ contraindications cdc carbohydrate workbook 0
+ inability awake inability swallow stiff rash blotches purpural rash tightness jaw inability awake inability swallow bending rash blotches purpuric rash tightness jaw frothy sputum muffled inability 3 25
+ disp 100 refill 3 expire 1 disp 90 refill 3 expire 1 3 75
+ denies bruising thromboembolic denies shortness dizziness fainting 1 75
+ sprain splint resting icing compressing elevating sprain splint 3 25
+ verbalized clomiphene citrate verbalized 2 75
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake struggling breathe inactive resting sits vomit vomiting bile stained vomiting uncontrollable rectal stools rash blotches purpural rash 3 25
+ wheelchair gait patient uncomfortable unsteady gait 3
+ discharged verbalized discharged ambulating unaccompanied 3
+ toileting bathing toileting 2 75
+ inability inability awake inability swallow onset cough choking gagging inhaling airway tightness jaw frothy sputum noisy wheezy raspy coughing inability inability awake onset cough choking gagging tightness jaw frothy sputum noisy wheezy raspy coughing 3 4
+ respirations conversing distress tachypneic respirations conversing distress 3 7
+ 3 95
+ inability awake struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpuric rash inability awake inability swallow stiff rash blotches purpural rash 2 5
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools rash blotches purpural rash inability awake discomfort struggling breathe inactive resting weakness 3
+ immunizations fainting 1 5
+ traumatic tbi pertinent 1
+ giver verbalizes instructed 4
+ aprn 4
+ 7 00 4
+ discharged ambulating unaccompanied verbalized discharged ambulating verbalized 3
+ voiced 4 15
+ expresses 2 5
+ 1 24 12 24 neuropathy 3 7
+ pap indications contraindications doxycycline 0 5
+ repeats dosing enroll 0
+ inability awake noisy wheezy raspy coughing bending rash blotches purpural rash muffled inability inability swallow inability awake noisy wheezy croupy raspy coughing stiff rash blotches purpural rash sits muffled inability 3 25
+ ambulatory gait patient mucous membranes ambulatory gait patient uncomfortable 2 9
+ sore pretravel 0 5
+ 1 1 fluids 1 1st 1 liter 1 1 fluids 1 1st 1 bolus 1000 1 bolus 3 5
+ 1 cholecalciferol d3 d3 50 000 capsule 1 capsule 1 5
+ cryotherapy complementary therapies 2 75
+ understands 0 5
+albuterol proventil ventolin 90 mcg hfa aerosol 2 puffs inhalation 6 fluticasone propionate flovent hfa 110 mcg aerosol 2 puffs inhalation 3
+venlafaxine effexor xr 75 capsule 24 1 montelukast singulair 5 chewable 1 1
+ struggling breathe inactive resting shortness onset cough choking gagging inhaling airway noisy wheezy croupy raspy coughing struggling breathe inactive resting shortness onset cough choking gagging inhaling airway 3
+ inability awake uncontrollable rectal stools inability awake sits 2 75
+ 3 25
+ itinerary insect precautions insect repellent permethrin itinerary precautions diarrhea 3 75
+ distress distress 4
+ handout subcutaneous tissues fascia incision 0
+ discharged verbalized discharged ambulating verbalized 3 9
+ verbalized caregiver 3 25
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake refusing floppiness fainting rash blotches purpuric rash 3
+ directives 4 4
+acetaminophen tylenol 500 2 8 3 2 000 1 3
+ ambulatory gait patient stretcher patient uncomfortable 2 5
+premarin 0 625 gram vaginally prescriber triamcinolone acetonide 0 1 topically 1
+allergies allergies 3 5
+senna docusate senokot 8 6 50 2 citalopram celexa 10 1 1
+contrave 8 90 prescriber azithromycin zithromax 500 2 1
+cetirizine zyrtec 5 1 tylenol 325 1 1
+ immunization inactivated influenza vaccination tetanus diphtheria acellular pertussis tdap immunization tetanus diphtheria acellular pertussis tdap 3 25
+ inability awake noisy wheezy raspy coughing bending rash blotches purpural rash muffled inability inability swallow inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash sits muffled inability inability swallow 5
+ fatigue appetite genitourinary urination urination 0 5
+colace 100 capsule 1 capsule famotidine pepcid 20 1 bedtime 2 5
+ caregiver hospitalized hospitalized 4 75
+ inconsolable crying vomiting diarrhea 100 4 inconsolable vomiting diarrhea jaundice 3 5
+ibuprofen 2 prednisone 20 2 1
+albuterol aerosol 90 mcg actuation 2 puffs inhalation prescriber lorazepam ativan 1 2 prescriber 1 5
+ femoral lug drilled tibial cautery 0
+relayed denies noting recurrent relayed denies noting recurrent 3 5
+ swelling limp discomfort improves cramping thigh calf stairs cramps swelling varicose veins veins ulcers sores toes cracking peeling itching toes soles lump swollen gland swelling limp discomfort improves cramping thigh calf stairs cramps varicose veins veins ulcers sores toes cracking peeling itching toes soles lump swollen gland 3 25
+ abdominal uncontrollable rectal inability awake 2 9
+ 600 2 diltiazem cardizem 360 capsule 24 1 capsule 1
+ guarding ankle ecchymosis deformity laceration 0 5
+ verbalized 2 9
+ 45 50 30 4 35
+ unsedated marrow repeating 3 25
+ verbalized caregiver verbalized 3 25
+ verbalized verbalized 4 25
+ procedural pause pause implants 3 25
+ rationale 3 5
+ instructed sooner instructed verbalized 1 75
+ discharged ambulating patient discharged ambulating 3 75
+ numbness weakness numbness weakness numbness weakness numbness weakness numbness weakness numbness weakness 4
+ ambulatory gait patient ambulatory gait patient anxious distress 3 4
+ gastrointestinal historian denies abdominal diarrhea nausea vomiting historian denies intolerance fatigue 2 5
+ 3 1 000 capsule 1 capsule celexa 20 2 1 5
+ 3 neurologic gait demeanor 4 5
+ situ invasive carcinomas 0
+ cantharidin 2 5
+ understands 4 5
+ verbalized 3 5
+ kpd instability 0
+ tolerated 1 5
+ cravings telecoil 0 5
+ 4
+ hesitate 5
+musculoskeletal 5 5 bilateral extremities extremities 4
+ verbalized 3
+ 4 5
+ directives 4 9
+ handouts videotape handouts 4 85
+lymph cervical posterior auricular axillary supraclavicular lymphadenopathy lymph cervical supraclavicular axillary 3 5
+ rash 1
+ gradual onset onset onset 1 3 95
+ auscultated bilaterally wheeze rhonchi rales pulm auscultation bilaterally wheezes aeration 4 5
+ 20 capsule 3 capsules aleve 220 1 0 5
+ verbalized 4
+ 9 18 administer inactivated influenza fluzone 0 5 intramuscular 12 13 mmr varicella 2 25
+ postoperatively anesthesia orthopedic uncomplicated tolerated anesthesia extubated anesthesia 3 4
+ discharged ambulating verbalized discharged ambulating 3 75
+ caregiver verbalized 3 5
+ 4
+ submerging incision 6 submerging incision tubs 6 4 5
+fluconazole diflucan 150 1 prescriber lorazepam ativan 0 5 1 3
+ 000 000 0000 postoperative 000 000 0000 3 5
+ denies bleed denies lesions 4
+ directives 3 5
+ofloxacin ocuflox 0 3 1 ophthalmic 6 ofloxacin floxin 0 3 10 otic 3
+ 5 5 45 3 5
+multivitamins 1 prednisone 20 3 1
+ uncontrollable rectal inability awake struggling breathe inactive resting inability awake lethargy 3
+ rectal antigen 0
+ noisy wheezy raspy coughing muffled inability inability swallow dusky struggling breathe inactive resting abrupt onset shortness inactive noisy wheezy croupy raspy coughing 2
+ 4 85
+sotalol betapace 120 1 mefloquine larium 250 1 2 5
+ swelling limp discomfort improves cramping thigh calf stairs cramps swelling varicose veins veins ulcers sores toes cracking peeling itching toes soles lump limp discomfort improves cramping thigh calf stairs cramps swelling varicose veins veins ulcers sores toes cracking peeling itching toes soles lump swollen gland 4 5
+dexamethasone 4 1 naproxen 220 1 1 5
+lungs auscultation bilateral wheezes rales rhonchi lungs auscultation bilaterally 4 5
+ allergies allergies 4 5
+ 3
+ 3 9
+zantac 150 1 metoprolol succinate toprol 25 24 1 baily 1
+ recurred 24 103 39 4 recurred 24 103 39 4 3 7
+ directives directives 3 5
+ arthralgias stiffness joints 10 0
+aleve 220 2 serevent diskus 50 mcg 1 puff inhalation 0
+recheck recheck swallowing worsening recheck recheck sooner recheck swallowing worsening 3 1
+ allergies lipid regimen 0
+ 4
+ cholecalciferol d3 d3 1 000 1 multivitamins fruity chews chewable 1 2
+ wheelchair gait patient distress distress 3
+pleast 4 5
+ awakened anesthesia pacu awakened extubated 4 5
+ orthotic crutches 2
+ hardening 50 70 3 75
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools rash blotches purpural rash inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash 4 35
+ inability awake lethargy floppiness refusing seizure pitched whimper moaning consolable rash blotches purpuric rash bulging tense fontanel crying inability awake inability swallow stiff rash blotches purpural rash tightness jaw 3
+ caller verbalize 4 75
+ 4 5
+ 3 5
+ 3 4
+ s1 s2 murmurs gallops rubs s3 s4 murmurs 4 5
+ 38 wheezing tightness runny aches fatigue exhaustion headache 38 headache itchy 2 5
+ verbalized verbalized 3 75
+ allergies 4 5
+ 3 1 3 2 2 5
+ 0
+ irb 06 004868 eosinophil allergic irb 1415 00 anthrax adsorbed reactogenicity immunogenicity 2
+ cholecalciferol d3 d3 1 000 1 potassium chloride dur 10 meq 1 2
+ verbalizations verbalizations 3
+ inability awake rash blotches purpuric rash bending inability awake skipped heartbeats struggling breathe inactive resting weakness numbness tingling weakness paralysis 3 4
+ verbalized verbalized 3 9
+palpation palpation extremities unremarkable palpation occipital artery 1 5
+ caregiver worsening worsening 4 75
+ 2
+albuterol proventil 0 083 neb 3 inhalation prescriber testosterone androgel 1 25 actuation 2 transdermally prescriber 1
+ 72 recurred 24 103 39 4 recurred 24 104 40 recurrent unexplained fevers 3 25
+ instructed 72 contagious 24 oap oap readiness 0
+ allergies 4
+ 500 capsule 1 capsule omeprazole prilosec 40 capsule enteric 1 capsule 2 5
+ 4
+ caregiver verbalized 3 25
+ blower 0
+ 3 75
+ understands biopsy postoperative 2 75
+ inability awake inability urine bladder inability awake struggling breathe inactive resting 3
+metformin glucophage xr 500 24 1 aleve 220 1 2 1
+ 3 4
+ 0
+ caregiver 3 5
+ patient patient distress 3 5
+ prevented giver 2 25
+albuterol 90 mcg actuation hfa aerosol 2 puffs inhalation prescriber albuterol proventil ventolin 90 mcg hfa aerosol 2 puffs inhalation prescriber 4 15
+duloxetine cymbalta 30 capsule enteric 1 capsule allegra 180 1 1
+ 1 ophthalmic maxalt 10 1 prescriber 3
+ atrial fibrillation ventricular bradycardic 3
+ 3 25
+ cheeks forehead jaw sinuses nasal jaw bending hoarseness cheeks forehead sinuses jaw discolored nasal postnasal jaw bending 3 8
+ wheelchair unsteady gait patient gait patient 3 5
+ instructed pertaining instructed pertaining 3 4
+ abstinent altering indefinitely abstinent altering lifelong 3 4
+ hospitalization 2 25
+celexa 40 1 bedtime lisinopril prinivil zestril 30 1 2 5
+ 3 3 4
+ caregiver caregiver 4 4
+ 3 d3 1000 1 atorvastatin lipitor 10 1 1
+ autosomal recessive cf autosomal recessive mutation cftr 4 75
+ instructed instructed 4 95
+ directives sedated marrow aspiration biopsy repeating directives 3 5
+ 100 4 38 itchy hoarseness 38 headache itchy hoarseness 3 25
+ prepped draped fundus gallbladder grasped retracted 1
+synthroid 125 mcg 1 claritin 10 1 1
+ ambulatory gait patient mucous membranes wheelchair gait patient distress 3 25
+ cholecalciferol d3 d3 2 000 1 multivitamins fruity chews chewable 2 3 25
+gabapentin neurontin 300 capsule 3 capsules bedtime levofloxacin levaquin 250 1 1
+neurological casually grooming 1 5
+ 500 1 singulair 10 1 1
+ ambulatory gait patient anxious distress 3 25
+ verbally giver giver verbally caregiver 5
+ sedated marrow sedated marrow aspiration biopsy directives 3
+ 4 25
+ inability awake rash blotches purpuric rash inability awake headache bending rash blotches purpural rash 3
+ housekeeping 3 5
+ verbalized verbalizes 5
+ 5
+ verbalized caregiver verbalized 3
+ 2
+ pacu anesthesia postoperatively 5
+ inability awake shortness wheezing tightness itchy rash hives inability awake shortness wheezing tightness sits 3
+ recurred 24 103 39 4 recurred 24 recurrent unexplained fevers 3 25
+ bronchitis obstructive pulmonary copd emphysema unspecified bronchitis obstructive pulmonary copd emphysema unspecified 3
+ gastrointestinal historian denies abdominal diarrhea nausea vomiting neurologic historian denies dizziness headache 0 5
+ discharged ambulating patient ambulating 2
+ interpreter caregiver 3 95
+ 38 vomiting redness tearing swelling diarrhea ulcers 38 sweats unintentional appetite 2 1
+ directives splint tendon 0
+ verbalized consented 2
+ developmentally newborn developmentally vaccination 3 75
+ instructed 10 0
+ 4 5
+ 1
+ cueing cueing 5 7 3 25
+ caregiver caregiver 4 9
+ bronchitis obstructive pulmonary copd emphysema unspecified bronchitis obstructive pulmonary copd emphysema neuromuscular immunodeficiency immunodeficiency 2 9
+ verbalize splint verbalize splint 4 5
+ aprn 4
+ 0
+ cardiologist 2
+ caregiver 4 25
+ modality asam 5 relapse 5 relapse 3 15
+ interpreter 3 75
+ tiotropium spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation 3 foradil aerolizer 12 mcg capsule inhalation 1 inhalation inhale 2
+ inability inability awake swelling struggling breathe inactive resting tightness jaw inability awake inability struggling breathe inactive resting swelling sits 3 4
+torsemide demadex 10 1 maxalt 10 1 prescriber 2 5
+ musculoskeletal 0
+ caregiver 4 45
+ 3 25
+ hipaa mayo mayo 2 5
+ discharge caregivers 2 5
+amoxicillin amoxil 500 capsule 1 capsule 8 aspirin 81 1 1
+hydrochlorothiazide 25 2 isosorbide mononitrate imdur 120 24 1 2 5
+ lieberman eyelid speculum retract eyelids 0
+ extremity capillary refill 2 distal sensation intact 2
+ caregiver verbalized 3 25
+ instructed posture 1 5
+denies nasal congestion rhinorrhea toothache sore dysphonia cough nasal congestion abdominal stiffness 3 5
+ directives transfusion postoperative 2 5
+ caller instructed 911 outpatient psychotherapy 0
+ verbalized 2
+ somali interpreter 3 25
+ radiology 1 5
+nitrofurantoin macrobid 100 capsule 1 capsule 12 cefadroxil duricef 500 capsule 1 capsule 3
+ stiff rash blotches purpural rash inability swallow struggling breathe inactive resting inability awake bending rash blotches purpural rash headache 3
+ disp 150 5 3 10 refill disp 10 4 3 10 refill 3 8
+ discharged ambulating patient discharged ambulating unaccompanied verbalized 3 25
+psych awake conversant awake 4 5
+ smelling vaginal abnormal vaginal blisters ulcers sores genital itching genital vaginal genital rash redness genital discomfort rash redness intercourse smelling vaginal abnormal vaginal swelling lump labia vulva blisters ulcers sores genital genital rash redness genital discomfort rash redness intercourse protruding 4 25
+ caregiver tolerated complication discharged 0
+ accidental doses coumadin systolics 160s 0
+ fracture splint resting icing compressing elevating tendonitis splint tendon 1 75
+ 4 spontaneous 5 converses 6 obeys gcs 15 3 5 converses 6 obeys gcs 14 4 25
+ effected 3
+ 2 75
+musculoskeletal arthralgias stiffness joints stiffness musculoskeletal arthralgias pain stiffness joints stiffness 4
+ inability awake discomfort excruciating ripping stabbing dissecting aortic aneurysm toes struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake struggling breathe inactive resting discomfort palpitations sweating weakness numbness tingling 3 25
+concerta 18 24 1 hydroxyzine atarax 25 1 2 6 2 5
+ consultations voiced 1 5
+ s1 s2 murmur 4 5
+gabapentin neurontin 300 capsule 1 2 capsules 50 capsule 1 capsule 1
+ verbalized 3 25
+ 60 6 outpatient 60 psychoeducational 90 2
+ 3 45
+ 20 catheter 18 catheter 3 45
+ 4 5
+lungs bilaterally crackles wheeze septum midline nares bilaterally mucosa 0 5
+ cervical supraclavicular lymphadenopathy lymph palpable lymphadenopathy cervical supraclavicular inguinal 4 5
+ dbt distress handouts 7 8 8a 9 9a transitions 1
+ directives 4 4
+ discharged ambulating verbalized discharged ambulating 3 7
+ verbalized prepped draped dorsolithotomy 1 45
+ bladder 1 5
+ housekeeping housekeeping 4 35
+ narcotic slam stool softener narcotic constipation 1 5
+pravachol 20 1 lisinopril prinivil zestril 20 1 1 5
+ supportive interpersonal utilized psychotherapy utilized psychotherapy 2 75
+ 2 vaccination reminders 2 6 0
+ influenza 1 5
+zetia 10 1 keppra 750 1 1
+ 1 recurrence 6 1 recurrence 2 3
+ ambulatory gait patient wheelchair patient 3 35
+ sutures 10 14 stitches dissolve 3
+ ambulatory gait patient mucous membranes wheelchair patient 3 4
+ verbalized consented manipulate 1 25
+ allergies emr 4 5
+amlodipine norvasc 5 2 synthroid 25 mcg 1 1
+ 1
+tylenol 500 1 2 tylenol 2 6 3 5
+ bathing grooming toileting 3
+senna docusate senokot 8 6 50 2 bedtime cetirizine zyrtec 10 1 1
+hent congestion rhinorrhea sore genitourinary urination hematuria 0 5
+ immunization tetanus diphtheria acellular pertussis tdap immunization inactivated influenza vaccination meningococcal conjugate tetanus toxoid diphtheria acellular pertussis tdap 3
+ 50 4 6 50 4 6 4
+ respirations conversing distress cough sinus diaphoresis dyspnea 0 5
+medroxyprogesterone provera 10 1 prescriber vit oscal 1250 200 1 1
+ congenital rheumatic complication streptococcal congenital complication streptococcal 4 2
+ orthopedic emr allergies allergies 3
+ forearm 20 catheter forearm 20 catheter saline 3 45
+ dcs blockage bladder urethra urine bladder 0
+levothyroxine levothroid 100 mcg 1 50 1 prescriber 2 5
+ attentive congruent 3 25
+ verbalized verbalized 4
+ struggling breathe inactive resting inability awake dusky struggling breathe inactive resting onset coughing choking gagging inhaling airway apnea 3
+ 4 25
+ directives interventional directives 3 25
+ preps 3 75
+ 4
+ voiced expresses 3 5
+ warfarin coumadin heparin heparin warfarin coumadin prednisone 20 milligrams 3 25
+ caregiver giver 4 75
+ wheelchair unsteady gait patient distress unsteady gait inability ambulate patient 3 25
+ respirations distress respirations conversing distress retractions 3 85
+ directives directives 3 5
+ multidisciplinary multidisciplinary 4
+ 3
+ verbalized 4
+doxycycline monohydrate monodox 50 capsule 1 capsule simvastatin zocor 20 1 1
+ strep symptomatic strep pharyngitis contagiousness 24 recheck sooner strep symptomatic strep pharyngitis contagiousness 24 recheck sooner 4 5
+ discharged ambulating verbalized discharged ambulating unaccompanied prescriptions verbalized 3
+ verbally caregiver caregiver verbally 3 25
+ cyanocobalamin b12 1 000 mcg 1 000 micrograms subcutaneous prescriber aspart novolog 100 10 25 subcutaneous prescriber 1 1 5
+ arthrotomy 0 vicryl 1 vicryl subcutaneous 3 0 monocryl 1
+ 3 2
+ endocrine rationale 1 5
+ directives sedated marrow sedated marrow aspiration biopsy directives 3
+ discharged discharged 4 75
+ 100 3 4
+albuterol proventil ventolin 90 mcg hfa aerosol 2 puffs inhalation 4 albuterol proventil ventolin 90 mcg hfa aerosol 1 2 puffs inhalation 4 1 4
+ inability awake rash blotches purpuric rash bending inability awake rash blotches purpural rash bending swelling puffiness 4 4
+multivitamin 1 48 tylenol 1000 6 1
+lisinopril prinivil zestril 10 ibuprofen advil 200 3 6 2 5
+letrozole femara 2 5 1 senna sennosides senokot 8 6 1 2 5
+ uncomplicated 0 5
+ historian denies dyspnea exertion historian denies diaphoresis syncope palpitations 3
+ inability awake shortness wheezing tightness swelling onset swallowing rash blotches purpural rash inability awake lethargy floppiness seizure pitched whimper moaning consolable rash blotches purpural rash bulging tense fontanel crying rectal 100 4 3 25
+ directives 3 25
+pantoprazole protonix 40 enteric 1 600 d3 1 1
+wellbutrin 200 12 1 ay adderall xr 20 capsule 24 1 capsule 3
+ itinerary insect precautions insect repellent permethrin itinerary insect precautions insect repellent deet permethrin 4
+ bedside dignity rails stretcher dignity 3 45
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability swallow inability awake onset inability urinate 2 9
+ caregiver 4 25
+ 3 5
+ directives interventional 3 25
+ 4
+ prognosis postoperative prognosis postoperative 4 25
+ learns learns 5
+ delineated interpreter 3 25
+ 4 2
+ inability awake rash blotches purpural rash inability awake rash blotches purpural rash bending swelling puffiness 3
+ibuprofen motrin 100 5 5 buspirone buspar 5 1 1
+ ambulatory gait patient uncomfortable ambulatory smiling playful playful consolable 2 25
+polyethylene glycol 3350 miralax 17 gram 1 polyethylene glycol 3350 miralax 17 gram 8 5 17 refil 4
+ 2
+ 0
+ interventional 4 2
+ 5 1 12 100 mcg 1 1
+allegra 24 180 240 24 1 prednisone 1 4 1 5
+ 3
+ 4
+ verbalize splint verbalize splint 4 9
+ 2 1 4 45
+ 1 5
+ tolac 0 5
+ patient 2 75
+ entertained 5
+ awakened pacu 0 5
+metformin 500 2 gabapentin neurontin 300 capsule 2 capsules bedtime 1
+ gbs gbs 3
+ verbalized caregiver verbalized 3 5
+ urinating urination urination genitourinary urinating urination urination 5
+ directives 3 6
+ directives 3 35
+senna docusate senokot 8 6 50 1 dextroamph amphetamine adderall xr 30 capsule 24 1 capsule 1
+ 5
+ verbalized 3 5
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability awake noisy wheezy raspy doesn coughing bending rash blotches purpuric rash sits muffled inability inability swallow 3 5
+ discharged ambulating verbalized discharged ambulating unaccompanied prescriptions 3
+ sinus diaphoresis sinus diaphoresis dyspnea dizziness palpitations 3
+ directives directives 4 25
+ allergies 4 5
+ phq 9 0
+ rash diaper blisters sores genital rash diaper streaking redness warmth rash diaper pus yellowish leakage rash diaper rash diaper rash diaper blisters sores genital rash diaper streaking redness warmth rash diaper pus yellowish leakage rash diaper rash diaper 4 9
+ preps verbalized 3 25
+ discharged ambulating discharged ambulating prescriptions 3
+ forearm 20 catheter antecubital 18 catheter saline 3 45
+ developmentally 12 developmentally vaccination 4
+ 48 72 recurred 24 72 recurred 24 recurrent unexplained fevers 3 4
+ sterilely prepped aseptic utilized metatarsophalangeal metatarsophalangeal 1 sterilely prepped aseptic utilized 1
+ caregiver verbalized 4 15
+ stiffness genitourinary incontinence urination pelvic 1 5
+ ambulatory gait patient distress wheelchair unsteady gait patient 3
+tylenol 325 2 4 1 1
+ impairment caregiver caregiver 3 5
+ dusky struggling breathe inactive resting shortness inactive onset coughing choking gagging inhaling airway noisy wheezy croupy raspy doesn coughing apnea struggling breathe inactive resting shortness onset cough choking gagging inhaling airway noisy wheezy croupy raspy coughing 3 4
+allegra 180 1 50 1 1
+allopurinol zyloprim 300 1 levothyroxine levothroid 88 mcg 1 1
+ verbalized verbalized 3 5
+ directives facilitation 0
+tylenol 500 2 vit d3 600 1 500mg 400 1 1
+ allergies allergic seizure allergic systemic corticosteroids nerves seizure 3
+ neurologic historian denies dizziness weakness gait headache gastrointestinal historian denies abdominal hematemesis hematochezia jaundice melena vomiting 1 5
+ directives pertinent rcu bedside 3 25
+errin 0 35 prescriber centrum 0 4 300 250 mcg mcg 1 1
+combivent ipratropium albuterol 18 103 mcg actuation aerosol 2 puffs inhalation combivent 18 103 mcg actuation aerosol 2 puffs inhalation 1 4 95
+ lesions underwent curettage cryotherapy interventional 2 25
+prescriptions 0 5
+ generalize generalize moderation 3 5
+ confirms sinusitis 7 nasal maxillary frontal bending symptom 7 7 nasal maxillary frontal bending 4 75
+ 3 distress 0 5
+ 5
+metformin glucophage 500 1 2 furosemide 40 1 3
+ caregiver verbalized verbalized 3 9
+ procedural pause implants procedural pause implants 3
+ caregiver conten 4
+cefuroxime axetil ceftin 500 1 tylenol 500 2 bedtime 1 5
+ incremental chores lifting 2
+ 0
+ bronchitis obstructive pulmonary copd emphysema unspecified mellitus clot lungs pulmonary embolism bronchitis obstructive pulmonary copd emphysema unspecified 3 25
+losartan cozaar 50 chlorthalidone 25 1 2 5
+ wheelchair patient wheelchair 4
+ prepped draped sterile dorsolithotomy acog booklet cystic fibrosis 0
+ pelvis 0
+ 4
+ interpreter 4 25
+ dismissal tolerating ambulating afebrile bowel bladder dismissed tolerate bowel bladder 3 5
+ instructed instructed 5
+ allergies psychiatric diagnostics allergies 4 5
+ 2
+lorazepam ativan 0 5 1 valacyclovir valtrex 1000 2 1
+senna sennosides senokot 8 6 1 aspirin ecotrin 325 1 2 5
+acetaminophen tylenol 325 1 2 4 metoprolol succinate toprol 100 24 1 1
+ aprn 4
+folic 1 1 50 1 000 capsule 1 capsule 1
+maxair autohaler 200 mcg inhalation aerosol 2 puffs inhalation maxair autohaler 200 mcg inhalation aerosol 1 2 puffs inhalation 4 6 4 25
+ preoperative supine operative 1
+ verbalized verbalized 4
+ect denies ect 0
+ 4
+bridging inr 7 prompts inr recheck sooner warfarin dosing inr 10 prompts inr recheck sooner warfarin dosing 3 5
+ seated 0 5
+ allergies allergic seizure allergic systemic corticosteroids nerves seizure 3 25
+ inability awake shortness wheezing tightness swelling onset swallowing rash blotches purpural rash inability awake refusing floppiness fainting rash blotches purpuric rash 3
+ 3
+ cough orthopnea shortness hoarse 0
+ stairs 0
+ awake appreciative understands 1
+ discharged verbalized discharged verbalized 4 2
+pap renewed faxed renewed 1 5
+ 0 5
+ denies rash hives vertigo syncope shortness wheeze cough palpitations fatigue headaches denies shortness dyspnea exertion palpitations headedness 2 5
+ 1 24 12 24 5
+nifedipine plastibase topically sulfacetamide sulfur plexion 10 5 w cleanser topically 1
+ structuring cares structuring cares 2 5
+ 10 25 50 3 5
+ verbalized verbalized 3 25
+ therapy verbalize 2 5
+ impairment caregiver 2 5
+ understands warts growths caregiver 0
+ procedural pause implants procedural pause 4 25
+ discharged ambulating unaccompanied verbalized discharged wheelchair verbalized 3
+ voiced 3 75
+ verbalized 3 25
+ tolerated vasovagal pamphlet 0
+ inability inability awake inability swallow onset coughing choking gagging inhaling airway discomfort frothy sputum noisy wheezy raspy doesn coughing inability inability awake inability swallow onset cough choking gagging inhaling airway tightness jaw frothy sputum noisy wheezy raspy coughing 4 9
+lungs auscultation bilaterally inspiratory lungs auscultation bilateral wheezes rales rhonchi 4
+ 5 10 0 1 5
+glimepiride amaryl 2 1 medroxyprogesterone provera 10 1 prescriber 2 5
+ caregiver 4 25
+metrocream 0 75 topically triamcinolone acetonide 0 025 topically 3 5
+tylenol 500 headache relieved 2 5
+tretinoin retin 0 05 topically bedtime tretinoin retin 0 05 1 topically bedtime 5
+ consented 0 5
+ caregiver caretaker 4 9
+ directives hopeful 3 25
+ discharged ambulating verbalized discharged ambulating verbalized 3 25
+ antecubital 18 catheter saline antecubital 18 catheter saline 3 95
+ ophthalmologist optometrist diagnosed cataracts macular degeneration 3
+ outpatient 60 psychoeducational 90 3 4 60 6 1 95
+ rectal antigen adhd emr 0
+ 0 10 pain 0 10 7 3 95
+ inability awake shortness wheezing tightness swelling swallowing rash blotches purpural rash inability awake sits inability swallow stiff rash blotches purpural rash tightness jaw 2 5
+ paring cryotherapy understands discharged 1 65
+ severity severity 10 10 severity 10 10 severity severity 4 10 severity 4 10 2 5
+hydrochlorothiazide 25 ibuprofen motrin 600 1 1 5
+ acupuncture consents 3 1
+ superovulation iui verbalized 3
+ respirations conversing distress respirations conversing distress bilateral lobes bilateral lobes trachea midline symmetrical cough 3
+ discharged ambulating verbalized discharged ambulating verbalized 3 9
+ stretcher unsteady gait patient wheelchair unsteady gait inability ambulate patient 3 2
+januvia 100 1 20 prescriber 2 5
+albuterol proventil ventolin 90 mcg hfa aerosol 2 puffs inhalation 6 albuterol proventil hfa ventolin hfa 90 mcg hfa aerosol 2 6 puffs inhalation 4 3 75
+ interventional 3 25
+ inability inability awake swelling struggling breathe inactive resting tightness jaw inability inability awake swelling struggling breathe inactive resting abrupt onset onset cough choking gagging inhaling airway tightness jaw irregular heartbeat palpitations noisy wheezy raspy coughing 3
+triamcinolone acetonide kenalog 0 1 1 topically tacrolimus prograf 1 capsule 1 capsule 1
+ outpatient 2 5
+ verbalized 3 2
+ inability inability awake swelling swelling eyelids struggling breathe inactive resting abrupt onset onset coughing choking gagging inhaling airway discomfort skipped heartbeats noisy wheezy raspy doesn coughing inability inability awake swelling swelling eyelids struggling breathe inactive resting abrupt onset onset coughing choking gagging inhaling airway skipped heartbeats 3 45
+ 3 symmetric 3 4 symmetric 4 5
+ ambulatory gait patient anxious ambulatory gait patient uncomfortable 3 9
+torsemide demadex 20 1 fluconazole diflucan 100 1 3
+ dilated retinopathy macular edema proliferative retinopathy dilated retinopathy macular edema 3
+ preventative immunizations preventative immunizations 4 5
+ 3
+ bulging staring 100 4 wheezing secretions bloodshot sneezing irritable fussier 0 5
+sulfasalazine azulfidine 500 enteric 2 proscar 5 1 3
+ indications contraindications dosing efficacy indications contraindications dosing cipro 2 5
+ expresses 5
+ caregiver caretaker 4 9
+ outpatient 60 psychoeducational 90 3 60 6 3
+ comprehension supervising concurs 0 5
+ 3 25
+ 4
+ superolateral chloraprep scrub reexamined transducer sterile ultrasound transducer sterile ultrasound transducer groin chloraprep scrub reexamined transducer sterile ultrasound transducer sterile ultrasound transducer 3 25
+ directives directives 3 65
+ discharged ambulating verbalized discharged ambulating verbalized 4 25
+ nph novolin 100 subcutaneous prescriber nph novolin 100 63 76 subcutaneous prescriber 3 5
+ lotion 0
+ splint orthopedic splint immobilization orthopedic 4
+ 1 antecubital 1 fluids 1 1st 1 liter 1 forearm 1 fluids 1 1st 1 liter 1 infusion bolus infusing 3
+oxycodone roxicodone 5 1 4 nortriptyline pamelor 25 capsule 1 capsule bedtime 3
+atorvastatin lipitor 10 1 bedtime chlorthalidone 50 1 1 5
+reinforcement humidifier flexor digitorum profundus ulnar artery 0
+ allergies allergies 4 5
+ 50 15 4
+ cheeks forehead sinuses jaw discolored nasal postnasal cheeks forehead sinuses jaw discolored nasal postnasal jaw bending 3 25
+ tolerated tolerated 4
+ brushing flossing flossing brushing flossing brushing 3 5
+nizoral 2 shampoo topically prescriber nicotine polacrilex nicorette 4 gum buccal mucosa prescriber 1
+ verbalized 3 5
+ 3 55
+ noisy worsening longstanding diagnosed obstructive pulmonary copd bronchitis smoker bronchitis obstructive pulmonary copd emphysema 1 75
+ inability awake struggling breathe inactive resting discomfort palpitations sweating weakness numbness tingling inability awake onset inability urinate 3
+ extremity capillary refill 2 distal sensation intact extremity capillary refill 2 3 4
+ counseled 0
+ 4
+ cares 4 25
+ urine urinate urinating urine smelling urine urinate urgently urinating smelling urine 3 5
+ ambulatory gait patient distress ambulatory gait patient distress 4 15
+lisinopril hctz 20 12 5 1 atenolol chlorthalidone tenoretic 50 25 1 1 5
+ 4 cues 2
+ directives 4 25
+ritalin 20 capsule multiphasic 50 50 1 capsule zocor 40 1 2 5
+ 4 5
+ 3 5
+ caregiver 3
+ verbalized verbalized 3 25
+ dilated retinopathy macular edema proliferative retinopathy neurologic sensory stump sensory 0
+ swollen glands 100 4 38 rash blisters swollen hoarseness 38 rash blisters swollen hoarseness 3
+ locationemergency 2 5
+ procedural pause implants procedural pause pertinent implants 3 5
+diltiazem cardizem 360 capsule 24 1 capsule ty21a vivotif berna capsule enteric 1 capsule 2 5
+ respirations conversing distress cough respirations conversing distress trachea midline symmetrical cough 3 25
+ verbalized verbalized 3 5
+ verbalized 3 5
+ struggling breathe inactive resting faint inability awake inability awake struggling breathe inactive resting vomiting uncontrollable rectal 3
+ verbalized caregiver verbalized caregiver 3 2
+ seated counseled 5 2 1 0 0
+metronidazole flagyl 500 1 40 1 1
+ 0
+glucosamine 1 pantoprazole protonix 40 enteric 1 bedtime 2 5
+ bathing grooming toileting 3 25
+ verbalized 4 2
+posterior tibial pulses 3 3 popliteal dorsalis pedis posterior tibial pulses 2 symmetric 4
+ interviewed 3 95
+senokot 8 6 2 0
+ pager 1 5
+ 3 5
+lungs auscultation bilaterally wheezes crackles rales rhonchi retractions lungs auscultation bilaterally anteriorly posteriorly 4
+ voiced verbalized 4 9
+ adjunct outpatient adjunct outpatient addictions 4 15
+ directives directives whomever 3 25
+ iop 0
+ typed prepped draped aseptic 0
+ inability awake onset inability urinate bladder inability awake rash blotches purpural rash bending 3
+ supra phoned verbalized supra verbalized 4 75
+ daycare 1 5
+ directives 3 5
+ interventional directives 3 75
+spironolacton hctz aldactazide 25 25 1 pravachol 80 1 1 5
+ discharged ambulating verbalized discharged ambulating unaccompanied 3
+ inability awake dusky rash blotches purpural rash stiff puffiness abdominal 2 5
+ expresses 4
+ allergies allergies 4 5
+ directives understands understands interventional 2 75
+ inability awake rash blotches purpural rash inability awake bending rash blotches purpural rash headache sits seizure 3
+ 3 25
+ multidisciplinary underway collateral multidisciplinary underway 4 25
+ directives 4 1
+ verbalized verbalized 3 5
+ 4 4
+ tia drooping calf calf dyspnea prolonged stool urine bleeds bruising tia drooping calf calf dyspnea prolonged stool urine bleeds bruising 4 85
+ forearm 18 catheter antecubital 18 catheter 2 95
+ osa 2
+ openly empathy verbalized willingness 1
+ worsening 2 75
+prednisone 1 4 folic 800 mcg 1 1
+ ppd 2 vaccination reminders 3
+ carbonate oscal 500 1 250 1 50 1 5 1
+gastrointestinal abdominal constipation diarrhea nausea genitourinary incontinence urination pelvic 1 5
+ consultations consultations 4 5
+ mellitus 3 urinary 12 antibiotics 4 urinary 3 urinary 12 antibiotics 4 urinary 4 25
+triamterene hctz dyazide 37 5 25 capsule 1 capsule hydrochlorothiazide 25 2 2 5
+ supple adenopathy thyromegaly neck symmetrical supple trachea midline moveable lymphadenopathy 4
+ 20 capsule 1 capsule levothyroxine levothroid 137 mcg 1 2 5
+ caregiver cardiopulmonary resuscitation 2
+ 2 biomedical 1 tolerate discomfort 3 1 2 5
+ directives 3 5
+ discharged ambulating verbalized discharged ambulating verbalized 4 75
+ instructed 72 contagious 24 instructed contagious 24 contraceptives contraceptives 3
+ interviewed 1 5
+ cheeks forehead sinuses jaw nasal jaw bending headache cheeks forehead sinuses jaw jaw bending 3 25
+ interviewed 2
+ transfusion interventional 3
+ 4 25
+ verbalized preps caregiver verbalized 3 75
+gastrointestinal stool nausea vomiting genitourinary dysuria flank hematuria 0 5
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability awake noisy wheezy raspy doesn coughing bending rash blotches purpuric rash sits muffled inability inability swallow 3 65
+ inability awake dusky rash blotches purpural rash stiff puffiness inability awake dusky struggling breathe inactive resting rash blotches stiff 4 25
+ discharged verbalized discharged ambulating transported unaccompanied verbalized 3 65
+ verbalized verbalized 2 25
+ bathing grooming bathing grooming toileting 4 4
+ tolerated anesthesia instructed interviewed 0
+ tia drooping calf calf dyspnea prolonged stool urine bleeds bruising elevations 140 90 tia drooping calf calf dyspnea bleeds bruising 3 95
+ verbalized 3 25
+ directives operative 3 75
+ 3 5
+ directives directives 3 75
+ 4 75
+neurological numbness headaches weakness swelling 0 5
+ injustice forgiveness forgiving forgiveness forgiveness 1
+ directives wished 3 25
+atovaquone proguanil malarone 250 100 1 prescriber tylenol 500 2 1 5
+ tolerated tolerated anesthesia extubated anesthesia 1 25
+ depressive recurrent phq 9 23 0
+ directives directives 3 5
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools rash blotches purpural rash inability awake discomfort palpitations struggling breathe inactive resting weakness numbness tingling paralysis 3
+ concur differs 3
+ antecubital 18 catheter saline 18 catheter saline 3 45
+ pertinent 3 5
+ 0
+ instructed directives instructed 3 9
+albuterol 90 mcg hfa aerosol 1 2 puffs inhalation prescriber ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation 3
+ instructed pertaining instructed fasting radiofrequency ablation 0
+ 4 5
+ sprain splint resting icing compressing elevating cardiopulmonary resuscitation 0
+ childs sutures 1 5
+ inability awake uncontrollable rectal stools struggling breathe inactive resting inability awake 2 7
+ aspirin nonsteroidals 3
+prednisone 20 1 2 glipizide glucotrol 10 1 1
+ procedural pause implants procedural pause implants 3 75
+ 3
+ verbalized preps 3
+ibuprofen motrin 200 1 3 6 pravachol 20 1 3
+ 50 1 2 furosemide lasix 40 1 prescriber 1 5
+ instructed instructed aircast 3 35
+ 4 9
+ nostril 1 2 puffs 4 6 wheezing shortness extender 1
+ cyanocobalamin b12 1 000 mcg 1 000 micrograms intramuscular prescriber follitropin alfa gonal rff 900 1 5 injector subcutaneous prescriber 2
+ denies denies 4
+ inability awake rash blotches purpural rash bending puffiness inability awake rash blotches purpural rash bending 3 9
+ urine urinate urgently urinating complains urine urinating urinary urgency 4 75
+tylenol 325 2 6 lisinopril prinivil zestril 10 1 1
+ inr 5 7 inr 4
+ verbalize verbalized 3 5
+ caregiver 4 25
+ verbalized verbalized 3 75
+ consultations consultations 4 4
+nitroglycerin nitrostat 0 4 sublingual prescriber glucagon 1 1 intramuscular prescriber 2 5
+ sweats unintentional 5 10 generalized aches overuse fatigue exhaustion sweats unintentional 5 10 generalized aches overuse 3 5
+ditropan 5 24 1 lisinopril hctz 10 12 5 1 2 5
+ inability awake uncontrollable rectal stools uncontrollable rectal inability awake 3 65
+ inability awake rash blotches purpuric rash inability awake bending onset clap blurred weakness numbness tingling slurred rash blotches purpural rash discomfort shortness 2 5
+mometasone elocon 0 1 1 topically hydrocortisone 2 5 1 topically 3 5
+ 4 5
+ inability awake lethargy floppiness refusing seizure pitched whimper moaning consolable rash blotches purpural rash bulging tense fontanel crying inability awake floppiness fainting rash blotches purpuric rash refusing 3
+ impairment severity impairment exemplified exemplified 1 75
+ 3 9
+ instructed redness tenderness 101 5 hypocalcemia numbness tingling fingertips 0 5
+ instructed instructed 5
+ directives directives 3 25
+ vaccination immunizations vaccination immunizations hpv mcv tdap 2 75
+ 72 recurred 24 103 39 4 103 39 4 recurred 24 recurrent unexplained fevers 3 7
+metoprolol tartrate lopressor 25 ketoprofen 75 capsule 1 capsule 2 5
+ 10 50 nonoperative operative 1 5
+ 50 6 verbalize 6 3 45
+prilosec capsule enteric 1 capsule ativan 0 5 1 3
+ inability awake lethargy floppiness seizure pitched whimper moaning consolable rash blotches purpuric rash bulging tense fontanel crying rectal 100 4 inability awake refusing rash blotches purpuric rash headache floppiness fainting seizure 2 5
+ 4 5
+ understands understands interventional 3 25
+losartan cozaar 50 1 5 medroxyprogesterone provera 10 1 prescriber 1
+ voiced 4 2
+ mouthwash blm 200 25 400 40 30 mouthwash 15 tylenol 500 1 2 1
+ sugars 4 0
+loperamide imodium 2 capsule 1 2 capsules prescriber capsule 1 capsule 1 5
+ abdominal 0 5
+ inability awake struggling breathe inactive resting discomfort vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake inability swallow bending rash blotches purpuric rash frothy sputum 3
+ 3 9
+ verbalized consented 0
+ trusting 4
+ wheelchair patient uncomfortable stretcher patient 2 5
+ 5
+ verbalized preps caregiver verbalized 2 75
+ esthetics prosthesis 0 5
+ verbalized 3 4
+ directives directives ren 3 5
+verbally verbalize 6 12 3 5
+ directives interventional 3 65
+ gerd saliva esophageal squeeze esophagus 0
+doxycycline vibra 100 1 lisinopril prinivil zestril 10 2 2 5
+ denies shortness cough tightness shortness 2
+ caller verbalizes verbalized 3 5
+atorvastatin 40 1 zocor 20 1 2 5
+ 6 12 24 0
+ oncologist quantify recurrence 0
+ verbalized verbalized 3 25
+carvedilol coreg 6 25 1 trazodone 50 1 bedtime 1
+ 4 25
+ discharged ambulating verbalized discharged ambulating prescriptions verbalized 4
+ inability awake struggling breathe inactive resting inability inability awake swelling struggling breathe inactive resting tightness jaw sits 3
+ redness streaks localized redness margins pus smelling chills aches redness swelling noticeably 24 margins pus smelling chills aches 4
+ wheelchair gait patient ambulatory gait patient anxious uncomfortable 3
+ 4 9
+ impairment severity impairment exemplified inability impairment severity impairment exemplified 3 45
+ 1 5
+ verbalized 2
+ discharged ambulating unaccompanied verbalized discharged verbalized 3
+ capsule 1 capsule acyclovir zovirax 400 1 1
+ 3 9
+gastrointestinal abdominal cramping stool constipation diarrhea nausea vomiting swallowing arthralgias pain stiffness joints swelling 1 5
+ 3 5
+ didnaa aa1 2t palpitations 2 5
+ directives directives 4 1
+ varenicline nausea disturbances smokers varenicline agitation depressed suicidal behaviors nausea disturbances smokers varenicline agitation depressed suicidal 3 5
+gabapentin neurontin 300 capsule 4 capsules fluconazole diflucan 200 1 2 5
+valacyclovir valtrex 1000 2 tylenol 500 1 2 1 5
+ sooner 0 5
+vitron 65 125 1 50 500 300 200 capsule 2 capsules 1
+ nausea vomiting diarrhea constipation hematochezia melena denies appetite nausea vomiting diarrhea constipation hematemesis hematochezia melena abdominal 3
+ allergies allergies 4 5
+ directives 2 5
+ multidisciplinary underway multidisciplinary 5
+ 1 2 capsule stool 1
+ interpreter caretaker caregiver 4 5
+ utilized family utilized wic 2 75
+ 38 ribs flank nausea vomiting 38 wheezing tightness runny aches fatigue exhaustion 1 25
+ 100 4 38 rash blisters swollen hoarseness wheezing tightness runny hoarseness 0 5
+ capsular reinflated healon endoscope withdrawn nasal 0
+ 3 4
+albuterol 90 mcg hfa aerosol 2 puffs inhalation 4 acetaminophen tylenol 500 2 4 1
+ interviewed pertinent 2 9
+vyvanse 30 capsule 1 capsule keflex 500 capsule 1 capsule 1
+gabapentin neurontin 300 capsule 1 capsule 50 500 300 200 capsule 1 capsule 1
+ analgesics blockade 0
+ supervising concurs supervising 4 25
+ aprn 4
+ modality asam 4 readiness confrontation readiness 2 25
+ caretaker 4 25
+ housekeeping 2 95
+ 6 comprehension avocational 6 intelligibly intelligibility vocalization avocational 4 4
+ novolin 100 subcutaneous prescriber novolog 70 30 flexpen 100 70 30 subcutaneous prescriber 3 5
+ eyelashes bloodshot bloodshot eyelashes 5
+ caregiver verbalized caregiver verbalized 4
+ dysphagia abdominal jaundice nausea vomiting diarrhea constipation melena hematochezia shortness nausea vomiting abdominal diarrhea fevers chills sweats 2 95
+ diagnosed cancers diagnosed 2 75
+ 5
+ cholecalciferol d3 d3 1 000 1 cholecalciferol d3 50 000 capsule 1 capsule 2 7
+ oncologist quantify recurrence verbalized 0
+ cosigner cosigner 4 25
+ gait patient uncomfortable 3 45
+ pathophysiology adhesive maxi binder padded incision 0
+ circled no 0
+ speculum maxitrol prepped draped sterile 0
+ preeclampsia 0 5
+ caregiver verbalized preps caregiver verbalized 3 25
+ aprn 4
+ inability awake rash blotches purpural rash bending swelling puffiness sits stiff rash blotches purpural rash 3
+ondansetron zofran odt 4 dissolve 1 6 bupropion wellbutrin 300 24 1 1 5
+ caregiver worsening 3 25
+ bathing grooming toileting grooming 2 4
+ 3 5
+ directives 0
+ inconsolable crying vomiting diarrhea jaundice inconsolable crying vomiting cough jaundice 4
+atenolol 50 1 lopressor 50 1 3
+ inability awake rash blotches purpural rash bending swelling puffiness inability awake rash blotches purpuric rash bending swelling puffiness 4 9
+ recheck recheck sooner strep symptomatic recheck sooner 2 5
+invasive avoided bandage 2 swelling discomfort 0 75
+ historian denies cough shortness sputum wheezing historian denies cough cyanosis shortness 3 65
+ cryotherapy hopeful 3 25
+ 3 5
+ 100 1 5 melatonin 3 1 bedtime 1 5
+ interviewed pamphlet serenity 0
+ 1 5
+ 1 4 1 1 3 1 1 2 1 1 1 1 1 4 1 1 3 1 1 2 1 1 1 1 5
+musculoskeletal gait swelling extremity musculoskeletal myalgias extremity 1 5
+ inconsolable crying vomiting diarrhea rectal 100 4 inconsolable crying vomiting diarrhea cough 3 7
+acetaminophen tylenol 500 1 2 4 zetia 10 1 3
+ learns learns 5
+azithromycin zithromax 500 2 pantoprazole protonix 40 enteric 1 1
+ historian denies cough shortness wheezing historian denies cough cyanosis shortness sputum stridor wheezing 3 4
+ 3 75
+ directives directives 4 25
+neurologic sensory sensory dilated retinopathy macular edema proliferative retinopathy 0 5
+ verbalized caregiver verbalized 3 4
+ 3 5
+ inability awake struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpuric rash inability awake struggling breathe inactive resting discomfort excruciating ripping stabbing dissecting aortic aneurysm toes vomit vomiting stools uncontrollable rectal rash blotches purpural rash 3 25
+ 4 5
+omnipaque 140 140 iodine 50 prescriber diflunisal dolobid 500 prescriber 1
+ colace 100 stools losartan hctz hyzaar 100 12 5 1 1
+ semen 3 25
+ sero rheumatoid 2
+ supervising concurs supervising concurs 4 25
+triamcinolone acetonide kenalog 0 1 1 topically triamcinolone acetonide kenalog 0 1 topically prescriber 4 25
+ 3 5
+ testis swelling tenderness auscultation abnormal bowel bruits 2
+ suicidal homicidal ideation 0
+ bladder ureter 0
+ 4 2
+ inability inability awake swelling struggling breathe inactive resting tightness jaw inability swelling tightness jaw 3
+ verbally 3 45
+ 4
+ 8 4 bedtime 2 75
+ patient stretcher unsteady gait patient distress 2 5
+ seatbelts detectors helmets tuberculosis sunscreens brushing dentist seatbelts detectors helmets tuberculosis sunscreens brushing dentist noises grieving descent sickle anemia 3
+ inability inability awake swelling struggling breathe inactive resting abrupt onset onset cough choking gagging inhaling airway tightness jaw palpitations noisy wheezy raspy coughing inability inability awake inability swallow onset cough choking gagging inhaling airway frothy sputum noisy wheezy raspy coughing 3
+ 50 2 tessalon perles 100 capsule 1 2 capsules 2 5
+ 4
+ inability awake dusky rash blotches purpural rash stiff puffiness inability awake refusing rash blotches purpuric rash headache floppiness fainting seizure 2 25
+ 4
+ 41 celsius dpt dtap tetanus diphtheria acellular pertussis tdap 7 dpt dtap 2
+ tia drooping calf calf dyspnea prolonged stool urine bleeds bruising elevations 140 90 tia drooping calf calf dyspnea prolonged stool urine bleeds bruising hpi elevations 140 90 4 4
+ cardiologist relapse 0 5
+ verbalize receptive modifying 3
+ 6 1 distracted 1 distracted 4 5
+ 30 50 45 3 5
+ 5 3 6
+ forearm 18 catheter hydration antecubital 18 catheter 3 45
+ interviewed 2 75
+ 4 5
+ forearm 18 catheter 24 catheter 3 45
+ warfarin coumadin heparin heparin aspirin warfarin coumadin xab heparin heparin antiplatelet 3 25
+ verbalized verbalized 3 5
+ allergies unchanged unremarkable 2 5
+ 4 5
+vivelle 0 05 24 semiweekly 1 transdermally prescriber sumatriptan imitrex 50 1 2 prescriber 2 5
+ verbalized 4 5
+ 1
+ wheelchair unsteady gait patient uncomfortable ambulatory gait 3 4
+ inability awake lethargy floppiness seizure pitched whimper moaning consolable rash blotches purpural rash bulging tense fontanel crying rectal 100 4 inability awake sits stiff rash blotches purpural rash 2 9
+ denies 3
+ 1 800 222 1222 1 800 222 1222 4
+ educationready readiness 4 75
+ prescriber warfarin coumadin 2 5 1 1 5
+methotrexate 2 5 8 furosemide lasix 40 1 1 5
+ discharged ambulating verbalized discharged verbalized 3 65
+ 4 4
+ directives unsedated marrow marrow aspiration biopsy directives 3 4
+ spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation spiriva handihaler 18 mcg capsule inhalation 1 capsule inhalation 4 65
+ pertinent 0
+ caretaker 3 9
+ impairment caregiver 2 5
+ 2 75
+montelukast singulair 5 chewable 1 mucinex 600 1 1 5
+ caregiver expresses 3 75
+ smelling urine urine daytime wetting bedwetting smelling urine urine urine dribbling urine urine daytime wetting bedwetting 3
+cozaar 100 1 600 d3 1 2 5
+ 30 50 binder 0
+ 3 5
+ ncep 170 triglycerides 150 hdl 45 55 ldl 70 ncep 170 triglycerides 150 hdl 45 ldl 70 4 25
+amlodipine norvasc 5 2 hydrochlorothiazide 12 5 1 1 5
+ facilitated 3
+ directives directives 3 5
+cyanocobalamin b12 1 000 mcg 1 000 micrograms subcutaneous prescriber premarin 0 625 gram 1 gram vaginally prescriber 3
+ wheelchair unsteady gait patient patient 3
+dexamethasone 6 2 valtrex 500 1 2 5
+ inability awake struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash inability awake discomfort currentand excruciating ripping stabbing dissecting aortic aneurysm toes struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpural rash 4
+ abdominal constipation nausea vomiting gastrointestinal abdominal constipation diarrhea nausea vomiting 4 5
+lovaza 1 gram capsule 2 capsules famotidine pepcid 20 1 2 5
+levothyroxine synthroid 25 mcg 1 labetalol normodyne 100 1 1
+ awake 5
+ 4
+ sedated marrow aspiration biopsy repeating directives 3 25
+ reconciliation 4
+ 4 5
+ cosigner cosigner 4 25
+ caregiver 4 25
+ caregiver 4 4
+ consented 2 9
+loratadine 10 1 pravachol 20 1 1
+ pharmacist 3 5
+ neglect neglect 2 75
+ caller instructed worsening 7 worsen 3 9
+ unsteady gait patient unsteady gait 4 75
+ inject hypersensitivity bronchospasm epipen 2 pak 2 injectors epipen 2 pak hypersensitivity bronchospasm epipen 2 pak 2 injectors 3
+ impairs 2
+ 4 initiate 3 5
+ verbalized preps verbalized 3 4
+albuterol proventil ventolin 90 mcg hfa aerosol 2 puffs inhalation 4 albuterol proventil ventolin 90 mcg actuation hfa aerosol 1 4 puffs inhalation prescriber 2 inha 3 25
+ 0 5
+ verbalized 3 75
+oxycodone roxicodone 5 1 2 6 metoprolol succinate toprol 25 24 1 aily 3
+ tourniquet 0 5
+ caregiver verbalized 3 9
+ distress distress 4
+albuterol 90 mcg hfa aerosol 1 2 puffs inhalation prescriber fluticasone flovent hfa 110 mcg aerosol 2 puffs inhalation 2 5
+ondansetron zofran 4 1 amoxicillin amoxil 500 capsule 2 capsules 3
+ patient ambulatory gait patient distress 3 15
+ caregiver 4 25
+ 3 distress 4 5
+ 4 5
+neurologic 3 distress 4 5
+mometasone elocon 0 1 ointment 1 topically multivitamins 1 0 5
+ forearm 18 catheter 20 catheter 3 45
+ spt 3 75
+ verbalizations verbalizations 4 15
+ caregiver 3 5
+ 5
+ caregiver 3 5
+ hospitalization expresses 0 5
+triamterene hctz dyazide 37 5 25 capsule 1 capsule omeprazole 20 capsule enteric 1 capsule 3
+ discharged ambulating verbalized discharged ambulating 3 25
+ wheelchair unsteady gait patient uncomfortable wheelchair gait patient anxious uncomfortable 3 6
+ reschedule 0 5
+ struggling breathe inactive resting inability awake excruciating ripping stabbing dissecting aortic aneurysm faint extremities weakness bilateral numbness groin saddle bowel bladder abdominal inability awake shortness wheezing tightness sits 2 25
+ canals bilaterally tympanic cone pearly bony landmarks visualized bilaterally canals bilaterally tms 4
+fluconazole diflucan 150 1 prescriber 100 1 prescriber 2 5
+ verbalize verbalize 1 3 75
+metformin glucophage xr 500 24 4 ibuprofen advil 200 1 4 6 2 5
+ 1 letrozole femara 2 5 1 1
+ interviewed 60 locaation 2 5
+prednisone 20 1 2 prescriber advil 200 2 4 1
+ smokes smokes 1 2 denies smokes smokes 1 2 smoked 10 denies 4 25
+ articulated individualized ehl fhl operative extremity 0
+ patency heparin 3 50 patency 10 0 9 preservative nacl 2 75
+ 4
+ impairment severity impairment exemplified impairment severity impairment exemplified inability 4 6
+ denies denies 0
+ caregiver caregiver 3 5
+ 4
+ 4 5
+ identifiers fingerstick inr identifiers fingerstick inr 5
+cellcept 250 capsule 1 capsule lisinopril prinivil zestril 20 2 2 5
+ impairment severity impairment exemplified inability impairment severity impairment exemplified inability 3 25
+januvia 50 1 gabapentin neurontin 300 capsule 2 capsules 3
+erythromycin 5 gram 0 5 ointment ophthalmic oxybutynin ditropan 5 1 2 5
+ toenail debridement fungal toenails 0
+pantoprazole protonix 20 enteric 1 fenofibrate nanocrystallized tricor 145 1 1
+ regimen outpatient regimen outpatient 3 25
+ blower 0
+ respirations conversing distress cough respirations conversing distress symmetrical 3 5
+ cough hemoptysis tightness shortness wheezing tightness swelling shortness 4
+ 10 1 3 1 000 capsule 1 capsule 1
+ traumatic tbi radiographic 1 5
+ expresses 2
+ understands understands warts growths 1 5
+ hesitate 4 5
+ inability awake inability swallow bending rash blotches purpuric rash tightness jaw frothy sputum lethargy floppiness refusing seizure pitched whimper moaning consolable rash blotches purpuric rash bulging tense fontanel crying 2
+ impressions caregiver mandated 3 5
+ verbalized verbalized 2 9
+ verbalized preps 4
+ 4 25
+prednisone 1 2 carvedilol coreg 6 25 1 1
+warfarin coumadin 1 1 prescriber 1 prescriber 1 5
+ 1 5
+ toenail rubbing cuticle operative extremity prepped draped sterile 0
+ directives whoever directives 4 25
+ verbalized 3
+ 20 capsule 1 capsule ibuprofen advil 200 3 1 5
+losartan cozaar 50 1 ranitidine zantac 150 1 2 5
+ procedural pause procedural pause 3
+ rails stretcher dignity rails stretcher dignity 4 35
+ 3 4
+ 3 25
+ ferrous sulfate 325 65 1 melatonin 1 1 bedtime 2 5
+ caregiver 4 5
+ agreeable 3
+ irregular spotting 0
+ unsteady gait patient stretcher gait patient 2 5
+ inability awake rash blotches purpuric rash lethargy floppiness awake shortness wheezing fainted rash blotches purpuric rash 2 75
+ 2 65
+ tolerated orthopedic 0
+ worsening verbalized 4
+oxycodone roxicodone 5 0 5 1 4 simvastatin 40 1 1
+ verbalizations verbalizations 4 75
+ biosocial dysregulation clarifying 1
+torsemide demadex 10 1 levothyroxine levothroid 125 mcg 1 1 5
+asymptomatic 3 coughing sneezing pertussis 5 antibiotic asymptomatic pertussis 5 antibiotic 3 6
+ caregiver 3 5
+ readiness 3
+ sulfa trimethoprim sulfa penicillin amoxicillin penicillin derivatives insect sting 1 5
+ unsteady gait patient stretcher patient distress 3
+ 30 70 50 4
+ instructed nausea vomiting diarrhea febrile illnesses instructed nausea vomiting diarrhea febrile illnesses endoscopies 10 3 5
+ibuprofen motrin 100 5 7 5 6 ibuprofen capsule 200 2 capsules 3 5
+ 4 5
+ immunization inactivated influenza vaccination pneumococcal polysaccharide 23 ppv23 immunization papillomavirus vaccination varicella vaccination 1 75
+ contraceptive implant 0
+ streptococcal pharyngitis 6 swallowing antibiotics minocycline doxycycline gestational mellitus streptococcal pharyngitis 6 antibiotics minocycline doxycycline 3 2
+ directives whomever 3 75
+ splint instructed 0
+ inability awake rash blotches purpural rash stiff puffiness inability awake inability swallow bending rash blotches purpural rash tightness jaw 3 25
+prednisone 1 4 senokot 8 6 2 2 5
+ inability inability awake inability swallow onset cough choking gagging inhaling airway tightness jaw frothy sputum noisy wheezy raspy coughing inability inability awake swelling swelling eyelids abrupt onset onset coughing choking gagging inhaling airway skipped heartbeats noisy wheezy raspy doesn coughing 3 75
+ recapitulation dismissal recapitulation diagnoses 4 5
+ sinus congestion gastrointestinal abdominal distention abdominal 0
+ directives pertinent rcu bedside 0 5
+tylenol 500 norvasc 10 1 1
+ verbalize perfectionism verbalize 3 5
+ gu bowel bladder pertinent 0
+ directives whoever interventional 3 25
+ lavage caregiver lavage pretreatment 4 5
+ seated 1 5
+ redness tearing glaucoma cataracts blurred specks tearing glaucoma cataracts blurred specks 4 5
+ shortness suspicious lesion 1 5
+ directives aspirin nonsteroidals 1 75
+ immunization inactivated influenza vaccination tetanus diphtheria acellular pertussis tdap immunization inactivated influenza vaccination vaccination 2 25
+ disp 6 2 5 refill expire disp 30 q4 6h prn 8 refill expire 2 5
+ inconsolable crying vomiting diarrhea jaundice inconsolable crying vomiting rectal 100 4 3
+ 3
+ 4
+ 0 5
+ verbalized preps verbalized 3 75
+ ambulatory gait patient ambulatory gait patient distress uncomfortable 3 25
+ recurrence sunscreens 2
+ 38 rash blisters swollen hoarseness 38 itchy itching hoarseness 2 75
+ atvs sleepy narcotic atvs sleepy oxycodone 4 9
+ ambulatory patient ambulatory gait patient anxious restless uncomfortable 2 9
+ 3 25
+ 2 1 2 5 5 1 tid 3 1 3 1 3 1 2 4 1 5
+ confirms sinusitis 7 nasal maxillary frontal confirms sinusitis nasal maxillary frontal bending 3 7
+ 3 4 6 agreeable 0
+ instructed nausea vomiting diarrhea alcoholic endoscopies 10 understands tia pulmonary embolus venous thromboembolism instructed nausea vomiting diarrhea febrile illnesses endoscopies 10 3
+ inability inability awake swelling struggling breathe inactive resting abrupt onset onset cough choking gagging inhaling airway tightness jaw palpitations noisy wheezy raspy coughing inability inability awake abrupt onset noisy wheezy raspy coughing swelling struggling breathe inactive resting onset cough choking gagging inhaling airway tightness jaw irregular heartbeat palpitations 3 75
+ directives directives 3 5
+ historian denies chills fatigue weakness historian denies cough shortness sputum 1 75
+ 5
+ 4 25
+ gynecology 3 gynecology preventive 3 4 35
+ 1 60 1 1
+ 5 relapse coping relapse 6 coping 3
+ oas 0 5
+ directives sedated marrow sedated marrow aspiration biopsy directives 3
+ nevi biopsy 0
+ ultrasound 2 25 subacromial subdeltoid bursa ultrasound 3 5 22 spinal anterior capsular recess 2 75
+ d3 d3 1000 1 aspirin 325 1 2 5
+ antecubital 20 catheter saline 18 catheter 3 45
+ caretaker 2
+synthroid 200 mcg 1 metolazone zaroxolyn 2 5 1 prescriber 2 5
+ 2 distress 1
+ immunity varicella immunity varicella pox 5
+ caregiver lavage 3
+ directives 4 15
+ caregiver 3 25
+ caregiver caregiver 0 5
+ interviewed 2
+ 4 75
+ 100 recheck 4 2
+ bending straightening quadriceps ankle 0
+ativan 0 5 1 prescriber flagyl 500 1 1 5
+ 4 25
+ supervising concurs supervising concurs 4 25
+ motivational motivational 3 95
+ comorbid diagnoses headaches 0
+ nasal congestion sore genitourinary urinary hesitancy dysuria polyuria 0 5
+ verbalized 2 5
+ worsening suicidal ideation understands cataract 0
+ smelling urine urine daytime wetting bedwetting urine foamy urine vaginal genital urine urinating smelling urine urine daytime wetting wetting urine foamy frothy urine 3
+ inability awake shortness wheezing tightness inability awake floppiness fainting rash blotches purpuric rash refusing 2 5
+ expresses verbalizations 5
+ allergies tabbed 4 5
+ inability awake shortness wheezing tightness swelling swelling eyelids swallowing rash blotches purpuric rash inability awake wheezing tightness swelling onset swallowing rash blotches purpural rash 3
+ directives directives 3 75
+ directives directives interventional 4
+ 25 1 cyclobenzaprine 5 1 bedtime 1 5
+ itinerary precautions diarrhea antidiarrheal loperamide antibiotic itinerary insect precautions insect repellent deet permethrin 2 75
+triamterene hctz 37 5 25 1 prednisone 20 3 1
+ strep strep pharyngitis contagiousness 24 recheck sooner strep symptomatic recheck sooner 3
+ ophthalmologist optometrist finasteride 2 5
+ apnea titrating cpap alleviate apneic 0
+ nph novolin 100 subcutaneous prescriber aspart novolog 100 12 subcutaneous prescriber 2 9
+ inability awake inability swallow bending rash blotches purpural rash tightness jaw inability awake inability swallow bending rash blotches purpuric rash discomfort frothy sputum muffled inability 3 65
+ instructed 1 instructed 4 9
+metoprolol tartrate lopressor 100 probiotic 1 1
+ wheelchair gait patient ambulatory gait patient anxious distress 3 25
+ interventional 3
+ 0 10 caregiver 8 10 3 5
+ interviewed voiced 2
+ impairment limbs 0
+ 1 24 12 24 4 85
+ 4 5
+ discharged ambulating verbalized discharged ambulating transported unaccompanied verbalized 3 45
+ localized swollen streaks localized redness pus localized swollen 3
+ antecubital 20 catheter 20 catheter 3 7
+ 3 4
+ 0 5
+ probiotic capsule 1 capsule flintstones 15 chewable 1 2 5
+ allergies diagnostics allergies 4 5
+ 100 4 38 headache itchy hoarseness 100 4 38 headache puffiness itchy hoarseness 3 7
+ preps verbalized 3
+ instructed donning doffing orthosis instructed orthosis 4 5
+tylenol 500 1 2 tamoxifen nolvadex 20 1 1
+ towel towel 5
+acetaminophen tylenol 500 1 2 6 carbonate oscal 500 1 250 1 2 5
+ 100 4 38 rash blisters swollen hoarseness swollen glands rash blisters swollen hoarseness 3 75
+gastrointestinal abdominal stool gastrointestinal abdominal cramping diarrhea nausea vomiting 2 5
+triamcinolone acetonide kenalog 0 1 1 topically prescriber chondrotin glucosamine 600 200 1 prescriber 1 5
+lmx 4 4 topically prescriber multivitamin 1 prescriber 2 5
+ directives sedated marrow aspiration biopsy directives 3
+ postoperatively uneventfully pacu orthopedic 0 5
+ tenderness palpation percussion tenderness palpation tendon patella patellar tendon 1 5
+ 1 5
+ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation albuterol 90 mcg hfa aerosol 1 2 puffs inhalation 4 1 2 75
+ giver verbalize 2
+ bedside dignity stretcher dignity 3 45
+ 4 5
+ 24 24 3
+ instructed instructed 4 75
+ directives directives 3 25
+ 3 25
+dyazide 37 5 25 capsule 1 capsule aleve 220 1 1 5
+ caregiver 4 4
+ rashes rash mole 1 5
+ inability awake struggling breathe inactive resting discomfort palpitations sweating weakness numbness tingling inability awake struggling breathe inactive resting discomfort palpitations profuse sweating weakness numbness tingling 3 25
+ 1 5
+methotrexate 2 5 7 senna docusate senokot 8 6 50 1 2 1
+ caregiver conten 4 45
+ struggling breathe inactive resting faint inability awake inability awake shortness wheezing tightness itchy rash hives 2 25
+ verbalize splint verbalized 2
+ verbalize verbalize 1 2 4 25
+ itching pus blisters sores rash pus blisters sores rash 2 9
+ perioperative 4 25
+bisacodyl dulcolax 5 enteric 2 trazodone desyrel 50 bedtime 3
+ tracings esophageal 0
+ 40 50 30 3 5
+ nst interpret tracing reactive 135 0
+ caregiver 3 10 0 0 10 2
+albuterol proventil ventolin 90 mcg hfa aerosol 1 2 puffs inhalation 4 ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation refi 3 5
+ 2 5
+ibuprofen advil 200 2 tylenol 500 2 6 3
+ expresses 3 5
+albuterol aerosol 90 mcg actuation 2 puffs inhalation prescriber ipratropium albuterol combivent 18 103 mcg actuation aerosol 2 puffs inhalation 3
+ expresses verbalizations 4 95
+ hemodynamically dismissal 1 5
+ lateral chloraprep scrub transducer sterile ultrasound transducer sterile ultrasound transducer plantar chloraprep scrub transducer sterile ultrasound transducer sterile ultrasound transducer 3 65
+ addicition 0
+ 4
+ preoperative 0
+ gastrointestinal historian denies abdominal nausea vomiting genitourinary historian denies dysuria hematuria urine 2 5
+ attentive congruent 0
+ anticoagulation deficiency axillary artery occlusion anticoagulation anoxic 2 5
+ multidisciplinary multidisciplinary 4 25
+ 0
+ vaccination vaccination 3 5
+ wheelchair unsteady gait patient ambulatory gait patient uncomfortable 2 5
+ impressions 3 4
+warfarin coumadin 2 dilaudid 2 1 4 1
+ 10 prescriber glipizide glucotrol 5 1 1
+ 72 recurred 24 103 39 4 recurred 24 fever 72 103 39 4 4 5
+ respirations conversing distress cyanosis respirations conversing distress trachea midline symmetrical 3 45
+ursodiol actigall 300 capsule 1 capsule advil 200 1 4 1 5
+ 4 5
+ delineated 3 65
+ historian denies chills fatigue weakness genitourinary historian denies dysuria dysuria hematuria 1
+neurological numbness weakness musculoskeletal arthralgias stiffness joints 2
+lisinopril hctz 20 12 5 1 rosuvastatin crestor 10 1 3
+ 100 4 38 headache itchy hoarseness 100 4 38 headache puffiness itchy hoarseness 3 75
+ 3
+ 3 9
+ satisfactorily pancreas multidisciplinary transplant 3
+ verbalized verbalized 3 25
+ strep symptomatic strep pharyngitis contagiousness 24 recheck sooner recheck sooner 3
+ procedural pause procedural pause 3 45
+ handout 0
+ chromosome chromosome miscarriage incompatibility chromosome chromosome miscarriage incompatible 5
+ sinus ectopic sinus ectopic diaphoresis dyspnea 3 45
+albuterol aerosol 90 mcg actuation 2 puffs inhalation prescriber maxair autohaler 200 mcg inhalation aerosol 2 4 puffs inhalation 4 2 4
+ verbalized 4
+ uncontrollable rectal inability awake inability awake struggling breathe inactive resting floppiness fainting uncontrolled 2 25
+ 3 hemoglobin a1c 6 3
+ritalin 20 capsule multiphasic 50 50 1 capsule omeprazole prilosec 20 capsule enteric 1 capsule 1
+ retinopathy macular edema proliferative retinopathy neurologic sensory stump sensory 0
+ verbalized 3 4
+ understands 2 5
+ forearm 18 catheter 20 catheter saline 3 45
+ inability awake struggling breathe inactive resting inability awake shortness wheezing tightness 3 25
+ verbalized consented voiced 3 5
+ instructed 3 5
+ transported ultrasound transported 3 5
+ inability awake inability swallow bending rash blotches purpural rash tightness jaw inability awake struggling breathe inactive resting discomfort 3
+ketoconazole nizoral 2 shampoo topically prescriber triamcinolone acetonide kenalog 0 1 topically 3
+ cpap tolerated extubated postanesthesia 0
+ discharged verbalized discharged 3 9
+ immunization inactivated influenza vaccination tetanus diphtheria acellular pertussis tdap immunization meningococcal conjugate tetanus toxoid diphtheria acellular pertussis tdap 3
+ antecubital 18 catheter antecubital 18 catheter saline flushed saline 3 4 2
+ 10 15 therapies towel 20 30 2 9
+ inability awake bending paralyzed dizziness inability awake sits 2
+ allergens 5 0
+ directives 4 25
+ aprn 4
+ wheelchair gait patient uncomfortable wheelchair patient 4 25
+ verbalized caregiver 3
+ directives 3 25
+ floppiness sunken tightness jaw frothy sputum wheezing tightness sweats unintentional appetite 1
+ neglect neglect bedside 3 4
+ 100 4 38 shaking chills nausea vomiting 100 4 38 itchy hoarseness 3
+ativan 0 5 1 omeprazole prilosec 20 capsule enteric 2 capsules 3
+ caregiver 3 75
+ smoked 10 denies smokes smokes 1 smoked 30 denies 1 75
+ urine 1 5
+genitourinary urinating urination genitourinary urinating urination urgency urination 4 5
+ 9 18 administer inactivated influenza fluzone 0 5 intramuscular 6 36 administer inactivated influenza 0 25 intramuscular 3
+ 1 75
+ 15 50 3
+ hypersensitivity anesthetic steroid preparations onset vaginal odor itching intercourse 0
+zantac 150 1 sertraline 50 2 3
+aspirin aspirin 81 enteric 1 warfarin coumadin 1 1 prescriber 1 5
+ verbalized 3 9
+ 2
+ 0
+ 25 35 70 4 5
+ dusky struggling breathe inactive resting shortness onset coughing choking gagging inhaling airway noisy wheezy croupy raspy doesn coughing apnea inability inability awake swelling abrupt onset onset cough choking gagging inhaling airway palpitations noisy wheezy raspy coughing 3
+ caregiver 3 4
+chlorthalidone 50 1 ferrous sulfate 325 65 1 2 5
+ ambulatory gait patient ambulatory gait patient uncomfortable 3 5
+ 0
+ pause implants procedural pause implants 3 75
+fluticasone propionate flonase 50 mcg aerosol 2 sprays nasally triamcinolone acetonide nasacort aq 55 mcg aerosol 2 puffs nasally refi 2 75
+ verbalize 6 verbalize 4 2
+ ambulatory gait patient ambulatory gait patient anxious distress 2 5
+ discharged ambulating verbalized discharged ambulating verbalized 4 25
+ inability awake struggling breathe inactive resting vomit vomiting uncontrollable rectal stools vaginal rash blotches purpuric rash inability awake sits inability swallow stiff rash blotches purpural rash 3
+ toileting grooming toileting 2 5
+ caregiver 0
+ verbalize 4 6 verbalize 1 2 3 65
+ caregiver splint fabrication radial splint 0
+ directives directives 3 5
+ directives 3 5
+musculoskeletal deformity 4
+ novolin 100 subcutaneous prescriber lantus solostar 100 3 30 subcutaneous prescriber 3 5
+prednisone 20 1 15 capsule 1 capsule 2 5
+ anxiolysis stabile cardio anxiolysis cardio 5
+ 4
+ 50 30 3 5
+ directives unsedated marrow repeating 3 15
+ verbalizations verbalized 3
+ discharged ambulating verbalized discharged 3
+escitalopram oxalate lexapro 5 1 coumadin 2 5 2 5
+ consented 1 5
+ ambulatory gait patient uncomfortable distress 3
+ 4
+ inability awake struggling breathe inactive resting discomfort palpitations profuse sweating weakness numbness tingling inability awake rash blotches purpural rash bending 2 75
+fluticasone propionate flovent hfa 110 mcg aerosol 2 puffs inhalation pulmicort flexhaler 180 mcg actuation inhaler 5 puffs inhalation 2 75
+ 5
+ wheezing tightness runny 38 wheezing tightness runny hoarseness sweats unintentional appetite 3
+ drowsiness sleepiness drowsiness sleepiness 5
+ giver caregiver 4 25
+ reconciled hospitalization prescribing 0
+ inability awake noisy wheezy raspy coughing stiff rash blotches purpural rash muffled inability inability swallow inability awake rash blotches purpural rash bending swelling puffiness 3
