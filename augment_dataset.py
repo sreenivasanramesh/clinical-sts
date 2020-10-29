@@ -76,7 +76,7 @@ def main():
             elif drug_count == 0:
                 class_label = "CLINICAL"
 
-            with open('/Users/vasan/clinical-sts/data/augumented_train.txt', mode='a', encoding='utf-8') as augumented_data_file:
+            with open('/Users/vasan/clinical-sts/data/augmented_train.tsv', mode='a', encoding='utf-8') as augumented_data_file:
                 augumented_data_file.write(sample.replace("\n", "") + "\t" + class_label + "\n")
 
 
