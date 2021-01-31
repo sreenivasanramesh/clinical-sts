@@ -1,0 +1,2 @@
+ Patient arrives, via hospital wheelchair, Gait steady, History obtained from patient, Patient appears comfortable, Patient cooperative, alert, Oriented to person, place and time.	 Complex assessment performed, Patient arrives ambulatory, Gait steady, History obtained from, parent, Patient appears comfortable, Patient cooperative, alert, Oriented to person, place and time.	3
+oxycodone [ROXICODONE] 5 mg tablet 0.5-1 tablets by mouth every 4 hours as needed.	pantoprazole [PROTONIX] 40 mg tablet enteric coated 1 tablet by mouth Bid before meals.	1
